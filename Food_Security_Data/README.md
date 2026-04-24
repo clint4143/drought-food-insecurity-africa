@@ -65,6 +65,7 @@ P1_Lag_analysis/
 
 ## Tools Used
 - Python 3.13 (pandas, numpy)
+- MS Excel
 - Tableau Public
 - Data sources: FAOSTAT, EM-DAT/CRED
 
