@@ -1,0 +1,1118 @@
+Area Code,Area,year,mod_severe_insecurity_pct,severe_insecurity_pct,pou_pct,iso3,subregion,drought_events,total_affected,drought_occurred
+4,Algeria,2002,,,7.3,DZA,North Africa,0,0,0
+4,Algeria,2003,,,6.7,DZA,North Africa,0,0,0
+4,Algeria,2004,,,6.4,DZA,North Africa,0,0,0
+4,Algeria,2005,,,6.4,DZA,North Africa,0,0,0
+4,Algeria,2006,,,6.1,DZA,North Africa,0,0,0
+4,Algeria,2007,,,5.8,DZA,North Africa,0,0,0
+4,Algeria,2008,,,5.3,DZA,North Africa,0,0,0
+4,Algeria,2009,,,5,DZA,North Africa,0,0,0
+4,Algeria,2010,,,4.7,DZA,North Africa,0,0,0
+4,Algeria,2011,,,4.1,DZA,North Africa,0,0,0
+4,Algeria,2012,,,3.7,DZA,North Africa,0,0,0
+4,Algeria,2013,,,3.1,DZA,North Africa,0,0,0
+4,Algeria,2014,,,2.9,DZA,North Africa,0,0,0
+4,Algeria,2015,,,2.7,DZA,North Africa,0,0,0
+4,Algeria,2016,22.9,13,2.6,DZA,North Africa,0,0,0
+4,Algeria,2017,21.5,12.7,2.6,DZA,North Africa,0,0,0
+4,Algeria,2018,19.8,11.4,2.5,DZA,North Africa,0,0,0
+4,Algeria,2019,17.6,9.3,2.5,DZA,North Africa,0,0,0
+4,Algeria,2020,17.6,6.9,2.5,DZA,North Africa,0,0,0
+4,Algeria,2021,19,6.2,2.5,DZA,North Africa,0,0,0
+4,Algeria,2022,19.4,5.6,2.5,DZA,North Africa,0,0,0
+4,Algeria,2023,18.9,5.6,2.5,DZA,North Africa,0,0,0
+4,Algeria,2024,17.6,4.9,2.5,DZA,North Africa,0,0,0
+7,Angola,2002,,,67.8,AGO,Central Africa,0,0,0
+7,Angola,2003,,,63.6,AGO,Central Africa,0,0,0
+7,Angola,2004,,,57.5,AGO,Central Africa,1,25000,1
+7,Angola,2005,,,50.6,AGO,Central Africa,0,0,0
+7,Angola,2006,,,42.9,AGO,Central Africa,0,0,0
+7,Angola,2007,,,36,AGO,Central Africa,0,0,0
+7,Angola,2008,,,29.8,AGO,Central Africa,0,0,0
+7,Angola,2009,,,24.4,AGO,Central Africa,0,0,0
+7,Angola,2010,,,19.7,AGO,Central Africa,0,0,0
+7,Angola,2011,,,16.2,AGO,Central Africa,0,0,0
+7,Angola,2012,,,14.8,AGO,Central Africa,1,1833900,1
+7,Angola,2013,,,14,AGO,Central Africa,0,0,0
+7,Angola,2014,,,13.5,AGO,Central Africa,0,0,0
+7,Angola,2015,,,13.2,AGO,Central Africa,0,0,0
+7,Angola,2016,,,14.2,AGO,Central Africa,0,0,0
+7,Angola,2017,,,15.2,AGO,Central Africa,1,1420000,1
+7,Angola,2018,,,15.4,AGO,Central Africa,0,0,0
+7,Angola,2019,,,15.9,AGO,Central Africa,0,0,0
+7,Angola,2020,73.5,26.9,18.2,AGO,Central Africa,1,1643316,1
+7,Angola,2021,77.7,30.4,20.8,AGO,Central Africa,0,0,0
+7,Angola,2022,78.5,31.2,22.6,AGO,Central Africa,0,0,0
+7,Angola,2023,,,23.1,AGO,Central Africa,0,0,0
+7,Angola,2024,,,22.5,AGO,Central Africa,0,0,0
+20,Botswana,2002,,,28.1,BWA,Southern Africa,0,0,0
+20,Botswana,2003,,,28.5,BWA,Southern Africa,0,0,0
+20,Botswana,2004,,,29,BWA,Southern Africa,0,0,0
+20,Botswana,2005,,,28.1,BWA,Southern Africa,0,0,0
+20,Botswana,2006,,,26.9,BWA,Southern Africa,0,0,0
+20,Botswana,2007,,,26.6,BWA,Southern Africa,0,0,0
+20,Botswana,2008,,,26.3,BWA,Southern Africa,0,0,0
+20,Botswana,2009,,,26,BWA,Southern Africa,0,0,0
+20,Botswana,2010,,,24.8,BWA,Southern Africa,0,0,0
+20,Botswana,2011,,,23.3,BWA,Southern Africa,0,0,0
+20,Botswana,2012,,,22,BWA,Southern Africa,0,0,0
+20,Botswana,2013,,,21.3,BWA,Southern Africa,0,0,0
+20,Botswana,2014,,,20.8,BWA,Southern Africa,0,0,0
+20,Botswana,2015,,,20.1,BWA,Southern Africa,1,0,1
+20,Botswana,2016,46.4,18.4,20.3,BWA,Southern Africa,0,0,0
+20,Botswana,2017,51.3,21.5,20.9,BWA,Southern Africa,0,0,0
+20,Botswana,2018,53.4,22.8,22.1,BWA,Southern Africa,0,0,0
+20,Botswana,2019,53.1,23.1,22.1,BWA,Southern Africa,1,38000,1
+20,Botswana,2020,54,23.7,22.8,BWA,Southern Africa,0,0,0
+20,Botswana,2021,55.6,25.4,22.8,BWA,Southern Africa,0,0,0
+20,Botswana,2022,56.3,26.7,22.9,BWA,Southern Africa,0,0,0
+20,Botswana,2023,55.4,26.6,22.5,BWA,Southern Africa,1,37000,1
+20,Botswana,2024,53.9,26.1,24,BWA,Southern Africa,0,0,0
+32,Cameroon,2002,,,24.2,CMR,Central Africa,0,0,0
+32,Cameroon,2003,,,22,CMR,Central Africa,0,0,0
+32,Cameroon,2004,,,19.6,CMR,Central Africa,0,0,0
+32,Cameroon,2005,,,16.8,CMR,Central Africa,0,0,0
+32,Cameroon,2006,,,13.8,CMR,Central Africa,0,0,0
+32,Cameroon,2007,,,11.2,CMR,Central Africa,0,0,0
+32,Cameroon,2008,,,9.1,CMR,Central Africa,0,0,0
+32,Cameroon,2009,,,7.3,CMR,Central Africa,0,0,0
+32,Cameroon,2010,,,5.9,CMR,Central Africa,0,0,0
+32,Cameroon,2011,,,4.9,CMR,Central Africa,0,0,0
+32,Cameroon,2012,,,4.3,CMR,Central Africa,1,12000,1
+32,Cameroon,2013,,,4.1,CMR,Central Africa,0,0,0
+32,Cameroon,2014,,,4.2,CMR,Central Africa,0,0,0
+32,Cameroon,2015,,,4.5,CMR,Central Africa,0,0,0
+32,Cameroon,2016,49.9,22.3,4.8,CMR,Central Africa,0,0,0
+32,Cameroon,2017,55.3,26.6,5.4,CMR,Central Africa,0,0,0
+32,Cameroon,2018,58,28.2,6,CMR,Central Africa,0,0,0
+32,Cameroon,2019,57,28.1,6.2,CMR,Central Africa,0,0,0
+32,Cameroon,2020,56.4,27.3,6.1,CMR,Central Africa,0,0,0
+32,Cameroon,2021,56.5,26.7,5.9,CMR,Central Africa,0,0,0
+32,Cameroon,2022,59.2,26.7,5.5,CMR,Central Africa,1,2389127,1
+32,Cameroon,2023,60.3,25.4,5.1,CMR,Central Africa,0,0,0
+32,Cameroon,2024,61.2,24.7,4.8,CMR,Central Africa,0,0,0
+35,Cabo Verde,2002,,,16.2,CPV,West Africa,1,30000,1
+35,Cabo Verde,2003,,,16.1,CPV,West Africa,0,0,0
+35,Cabo Verde,2004,,,14.8,CPV,West Africa,0,0,0
+35,Cabo Verde,2005,,,13,CPV,West Africa,0,0,0
+35,Cabo Verde,2006,,,12.7,CPV,West Africa,0,0,0
+35,Cabo Verde,2007,,,13.1,CPV,West Africa,0,0,0
+35,Cabo Verde,2008,,,14.1,CPV,West Africa,0,0,0
+35,Cabo Verde,2009,,,15,CPV,West Africa,0,0,0
+35,Cabo Verde,2010,,,15.2,CPV,West Africa,0,0,0
+35,Cabo Verde,2011,,,14.7,CPV,West Africa,0,0,0
+35,Cabo Verde,2012,,,14.1,CPV,West Africa,0,0,0
+35,Cabo Verde,2013,,,14.6,CPV,West Africa,0,0,0
+35,Cabo Verde,2014,,,15.3,CPV,West Africa,0,0,0
+35,Cabo Verde,2015,,,16.3,CPV,West Africa,0,0,0
+35,Cabo Verde,2016,,,16.6,CPV,West Africa,0,0,0
+35,Cabo Verde,2017,,,16.5,CPV,West Africa,1,70000,1
+35,Cabo Verde,2018,37.7,9.6,15.5,CPV,West Africa,0,0,0
+35,Cabo Verde,2019,36.4,8.6,14.8,CPV,West Africa,0,0,0
+35,Cabo Verde,2020,35.1,7.6,13.4,CPV,West Africa,0,0,0
+35,Cabo Verde,2021,35.4,6.4,12.6,CPV,West Africa,0,0,0
+35,Cabo Verde,2022,34.8,6.1,12.1,CPV,West Africa,1,46093,1
+35,Cabo Verde,2023,34.3,6,12.8,CPV,West Africa,0,0,0
+35,Cabo Verde,2024,32.1,6.1,13.5,CPV,West Africa,0,0,0
+37,Central African Republic,2002,,,35.9,CAF,Central Africa,0,0,0
+37,Central African Republic,2003,,,36.9,CAF,Central Africa,0,0,0
+37,Central African Republic,2004,,,37.1,CAF,Central Africa,0,0,0
+37,Central African Republic,2005,,,36.7,CAF,Central Africa,0,0,0
+37,Central African Republic,2006,,,34.8,CAF,Central Africa,0,0,0
+37,Central African Republic,2007,,,33,CAF,Central Africa,0,0,0
+37,Central African Republic,2008,,,31.2,CAF,Central Africa,0,0,0
+37,Central African Republic,2009,,,29.4,CAF,Central Africa,0,0,0
+37,Central African Republic,2010,,,27.6,CAF,Central Africa,0,0,0
+37,Central African Republic,2011,,,26.7,CAF,Central Africa,0,0,0
+37,Central African Republic,2012,,,26.3,CAF,Central Africa,0,0,0
+37,Central African Republic,2013,,,28.7,CAF,Central Africa,0,0,0
+37,Central African Republic,2014,,,30.1,CAF,Central Africa,0,0,0
+37,Central African Republic,2015,,,30.9,CAF,Central Africa,0,0,0
+37,Central African Republic,2016,,,28.6,CAF,Central Africa,0,0,0
+37,Central African Republic,2017,,,26.7,CAF,Central Africa,0,0,0
+37,Central African Republic,2018,,,25.3,CAF,Central Africa,0,0,0
+37,Central African Republic,2019,,,24.4,CAF,Central Africa,0,0,0
+37,Central African Republic,2020,,,25.2,CAF,Central Africa,0,0,0
+37,Central African Republic,2021,88.1,56.3,26.6,CAF,Central Africa,0,0,0
+37,Central African Republic,2022,88.1,56.3,29.2,CAF,Central Africa,1,2221692,1
+37,Central African Republic,2023,88.1,56.3,29.6,CAF,Central Africa,0,0,0
+37,Central African Republic,2024,,,29.8,CAF,Central Africa,0,0,0
+39,Chad,2002,,,34.4,TCD,Central Africa,0,0,0
+39,Chad,2003,,,33.4,TCD,Central Africa,0,0,0
+39,Chad,2004,,,33.9,TCD,Central Africa,0,0,0
+39,Chad,2005,,,32.4,TCD,Central Africa,0,0,0
+39,Chad,2006,,,30.9,TCD,Central Africa,0,0,0
+39,Chad,2007,,,28.6,TCD,Central Africa,0,0,0
+39,Chad,2008,,,26.6,TCD,Central Africa,0,0,0
+39,Chad,2009,,,24.7,TCD,Central Africa,1,2400000,1
+39,Chad,2010,,,24.1,TCD,Central Africa,0,0,0
+39,Chad,2011,,,24.1,TCD,Central Africa,0,0,0
+39,Chad,2012,,,24,TCD,Central Africa,1,1600000,1
+39,Chad,2013,,,23.5,TCD,Central Africa,0,0,0
+39,Chad,2014,,,23.8,TCD,Central Africa,0,0,0
+39,Chad,2015,,,25.2,TCD,Central Africa,0,0,0
+39,Chad,2016,67.9,32.4,25.9,TCD,Central Africa,0,0,0
+39,Chad,2017,71.3,35.4,26.1,TCD,Central Africa,1,1886800,1
+39,Chad,2018,74.7,38.7,26.7,TCD,Central Africa,0,0,0
+39,Chad,2019,76.3,39.7,28.1,TCD,Central Africa,0,0,0
+39,Chad,2020,75.9,38.4,29.8,TCD,Central Africa,0,0,0
+39,Chad,2021,72.2,32.7,30.1,TCD,Central Africa,0,0,0
+39,Chad,2022,69.4,28.3,30.1,TCD,Central Africa,1,2135362,1
+39,Chad,2023,67,25.2,30.5,TCD,Central Africa,0,0,0
+39,Chad,2024,66.3,25.2,32,TCD,Central Africa,0,0,0
+45,Comoros,2002,,,24.7,COM,East Africa,0,0,0
+45,Comoros,2003,,,20.7,COM,East Africa,0,0,0
+45,Comoros,2004,,,18,COM,East Africa,0,0,0
+45,Comoros,2005,,,16.6,COM,East Africa,0,0,0
+45,Comoros,2006,,,16.3,COM,East Africa,0,0,0
+45,Comoros,2007,,,16.1,COM,East Africa,0,0,0
+45,Comoros,2008,,,15.8,COM,East Africa,0,0,0
+45,Comoros,2009,,,15.4,COM,East Africa,0,0,0
+45,Comoros,2010,,,15.3,COM,East Africa,0,0,0
+45,Comoros,2011,,,15.6,COM,East Africa,0,0,0
+45,Comoros,2012,,,15.9,COM,East Africa,0,0,0
+45,Comoros,2013,,,15.6,COM,East Africa,0,0,0
+45,Comoros,2014,,,15,COM,East Africa,0,0,0
+45,Comoros,2015,,,14.5,COM,East Africa,0,0,0
+45,Comoros,2016,,,14,COM,East Africa,0,0,0
+45,Comoros,2017,,,13.5,COM,East Africa,0,0,0
+45,Comoros,2018,,,13.1,COM,East Africa,0,0,0
+45,Comoros,2019,,,13.2,COM,East Africa,0,0,0
+45,Comoros,2020,,,13.5,COM,East Africa,0,0,0
+45,Comoros,2021,79.7,27.4,14.3,COM,East Africa,0,0,0
+45,Comoros,2022,79.7,27.4,15.6,COM,East Africa,0,0,0
+45,Comoros,2023,79.7,27.4,16.2,COM,East Africa,0,0,0
+45,Comoros,2024,79.7,27.4,15.4,COM,East Africa,0,0,0
+46,Congo,2002,,,26.3,COG,Central Africa,0,0,0
+46,Congo,2003,,,25.9,COG,Central Africa,0,0,0
+46,Congo,2004,,,26,COG,Central Africa,0,0,0
+46,Congo,2005,,,27.2,COG,Central Africa,0,0,0
+46,Congo,2006,,,28.4,COG,Central Africa,0,0,0
+46,Congo,2007,,,30.5,COG,Central Africa,0,0,0
+46,Congo,2008,,,32.6,COG,Central Africa,0,0,0
+46,Congo,2009,,,34.9,COG,Central Africa,0,0,0
+46,Congo,2010,,,37.7,COG,Central Africa,0,0,0
+46,Congo,2011,,,40.4,COG,Central Africa,0,0,0
+46,Congo,2012,,,40.5,COG,Central Africa,0,0,0
+46,Congo,2013,,,37.4,COG,Central Africa,0,0,0
+46,Congo,2014,,,32.7,COG,Central Africa,0,0,0
+46,Congo,2015,,,29.6,COG,Central Africa,0,0,0
+46,Congo,2016,,,29.4,COG,Central Africa,0,0,0
+46,Congo,2017,,,29.6,COG,Central Africa,0,0,0
+46,Congo,2018,,,30.2,COG,Central Africa,0,0,0
+46,Congo,2019,,,29.7,COG,Central Africa,0,0,0
+46,Congo,2020,,,29,COG,Central Africa,0,0,0
+46,Congo,2021,,,27.7,COG,Central Africa,0,0,0
+46,Congo,2022,,,27.2,COG,Central Africa,0,0,0
+46,Congo,2023,,,26.8,COG,Central Africa,0,0,0
+46,Congo,2024,,,26.4,COG,Central Africa,0,0,0
+53,Benin,2002,,,14.3,BEN,West Africa,0,0,0
+53,Benin,2003,,,12.8,BEN,West Africa,0,0,0
+53,Benin,2004,,,11.2,BEN,West Africa,0,0,0
+53,Benin,2005,,,10.4,BEN,West Africa,0,0,0
+53,Benin,2006,,,9.2,BEN,West Africa,0,0,0
+53,Benin,2007,,,8.9,BEN,West Africa,0,0,0
+53,Benin,2008,,,8.5,BEN,West Africa,0,0,0
+53,Benin,2009,,,8.2,BEN,West Africa,0,0,0
+53,Benin,2010,,,8.7,BEN,West Africa,0,0,0
+53,Benin,2011,,,9.1,BEN,West Africa,0,0,0
+53,Benin,2012,,,9.6,BEN,West Africa,0,0,0
+53,Benin,2013,,,9.4,BEN,West Africa,0,0,0
+53,Benin,2014,,,9.2,BEN,West Africa,0,0,0
+53,Benin,2015,,,9.2,BEN,West Africa,0,0,0
+53,Benin,2016,55,10.4,9.1,BEN,West Africa,0,0,0
+53,Benin,2017,63.8,13.1,9.7,BEN,West Africa,0,0,0
+53,Benin,2018,66.3,14.4,10.5,BEN,West Africa,0,0,0
+53,Benin,2019,65.8,14.8,11.4,BEN,West Africa,0,0,0
+53,Benin,2020,64,14.7,11.8,BEN,West Africa,0,0,0
+53,Benin,2021,61.9,14.5,11.7,BEN,West Africa,0,0,0
+53,Benin,2022,62.7,15.4,12.5,BEN,West Africa,0,0,0
+53,Benin,2023,63.3,15.8,13.3,BEN,West Africa,0,0,0
+53,Benin,2024,65.6,15,14.3,BEN,West Africa,0,0,0
+59,Egypt,2002,,,4.8,EGY,North Africa,0,0,0
+59,Egypt,2003,,,5,EGY,North Africa,0,0,0
+59,Egypt,2004,,,5.5,EGY,North Africa,0,0,0
+59,Egypt,2005,,,5.8,EGY,North Africa,0,0,0
+59,Egypt,2006,,,5.8,EGY,North Africa,0,0,0
+59,Egypt,2007,,,5.4,EGY,North Africa,0,0,0
+59,Egypt,2008,,,5.1,EGY,North Africa,0,0,0
+59,Egypt,2009,,,5,EGY,North Africa,0,0,0
+59,Egypt,2010,,,4.9,EGY,North Africa,0,0,0
+59,Egypt,2011,,,5.1,EGY,North Africa,0,0,0
+59,Egypt,2012,,,5.2,EGY,North Africa,0,0,0
+59,Egypt,2013,,,5.7,EGY,North Africa,0,0,0
+59,Egypt,2014,,,6.1,EGY,North Africa,0,0,0
+59,Egypt,2015,,,6.4,EGY,North Africa,0,0,0
+59,Egypt,2016,27.8,8.4,6.5,EGY,North Africa,0,0,0
+59,Egypt,2017,29.9,8.7,6.6,EGY,North Africa,0,0,0
+59,Egypt,2018,33.1,8.6,6.6,EGY,North Africa,0,0,0
+59,Egypt,2019,31.2,7.4,6.4,EGY,North Africa,0,0,0
+59,Egypt,2020,27.8,6.7,6.6,EGY,North Africa,0,0,0
+59,Egypt,2021,27.3,7.1,7.1,EGY,North Africa,0,0,0
+59,Egypt,2022,28.5,8.8,7.9,EGY,North Africa,0,0,0
+59,Egypt,2023,29.8,10.4,8.8,EGY,North Africa,0,0,0
+59,Egypt,2024,30.8,12,9.4,EGY,North Africa,0,0,0
+72,Djibouti,2002,,,40.8,DJI,East Africa,0,0,0
+72,Djibouti,2003,,,39.4,DJI,East Africa,0,0,0
+72,Djibouti,2004,,,36.5,DJI,East Africa,0,0,0
+72,Djibouti,2005,,,32.7,DJI,East Africa,1,150000,1
+72,Djibouti,2006,,,28.9,DJI,East Africa,0,0,0
+72,Djibouti,2007,,,24.6,DJI,East Africa,1,42750,1
+72,Djibouti,2008,,,22.1,DJI,East Africa,1,340000,1
+72,Djibouti,2009,,,20.2,DJI,East Africa,0,0,0
+72,Djibouti,2010,,,20,DJI,East Africa,1,200258,1
+72,Djibouti,2011,,,19.5,DJI,East Africa,0,0,0
+72,Djibouti,2012,,,18.8,DJI,East Africa,0,0,0
+72,Djibouti,2013,,,17.4,DJI,East Africa,0,0,0
+72,Djibouti,2014,,,15.7,DJI,East Africa,0,0,0
+72,Djibouti,2015,,,14.1,DJI,East Africa,0,0,0
+72,Djibouti,2016,,,13.1,DJI,East Africa,0,0,0
+72,Djibouti,2017,,,12.7,DJI,East Africa,0,0,0
+72,Djibouti,2018,,,12.6,DJI,East Africa,0,0,0
+72,Djibouti,2019,,,12.2,DJI,East Africa,0,0,0
+72,Djibouti,2020,,,11.9,DJI,East Africa,0,0,0
+72,Djibouti,2021,49.2,16.5,12,DJI,East Africa,0,0,0
+72,Djibouti,2022,49.2,16.5,12.2,DJI,East Africa,1,192168,1
+72,Djibouti,2023,49.2,16.5,12.5,DJI,East Africa,0,0,0
+72,Djibouti,2024,49.2,16.5,12.9,DJI,East Africa,0,0,0
+74,Gabon,2002,,,10.6,GAB,Central Africa,0,0,0
+74,Gabon,2003,,,12,GAB,Central Africa,0,0,0
+74,Gabon,2004,,,13.1,GAB,Central Africa,0,0,0
+74,Gabon,2005,,,13.8,GAB,Central Africa,0,0,0
+74,Gabon,2006,,,14.3,GAB,Central Africa,0,0,0
+74,Gabon,2007,,,14.5,GAB,Central Africa,0,0,0
+74,Gabon,2008,,,14.4,GAB,Central Africa,0,0,0
+74,Gabon,2009,,,14.3,GAB,Central Africa,0,0,0
+74,Gabon,2010,,,14.4,GAB,Central Africa,0,0,0
+74,Gabon,2011,,,14,GAB,Central Africa,0,0,0
+74,Gabon,2012,,,13.5,GAB,Central Africa,0,0,0
+74,Gabon,2013,,,13,GAB,Central Africa,0,0,0
+74,Gabon,2014,,,13.1,GAB,Central Africa,0,0,0
+74,Gabon,2015,,,13.3,GAB,Central Africa,0,0,0
+74,Gabon,2016,,,14.1,GAB,Central Africa,0,0,0
+74,Gabon,2017,,,15.3,GAB,Central Africa,0,0,0
+74,Gabon,2018,,,16.4,GAB,Central Africa,0,0,0
+74,Gabon,2019,,,17.5,GAB,Central Africa,0,0,0
+74,Gabon,2020,,,18.6,GAB,Central Africa,0,0,0
+74,Gabon,2021,,,19.7,GAB,Central Africa,0,0,0
+74,Gabon,2022,,,21.3,GAB,Central Africa,0,0,0
+74,Gabon,2023,,,23.5,GAB,Central Africa,0,0,0
+74,Gabon,2024,,,25.3,GAB,Central Africa,0,0,0
+75,Gambia,2002,,,16.9,GMB,West Africa,1,0,1
+75,Gambia,2003,,,18.9,GMB,West Africa,0,0,0
+75,Gambia,2004,,,19.9,GMB,West Africa,0,0,0
+75,Gambia,2005,,,19.1,GMB,West Africa,0,0,0
+75,Gambia,2006,,,17.6,GMB,West Africa,0,0,0
+75,Gambia,2007,,,15.5,GMB,West Africa,0,0,0
+75,Gambia,2008,,,13.7,GMB,West Africa,0,0,0
+75,Gambia,2009,,,12,GMB,West Africa,0,0,0
+75,Gambia,2010,,,10.5,GMB,West Africa,0,0,0
+75,Gambia,2011,,,9.7,GMB,West Africa,0,0,0
+75,Gambia,2012,,,9.5,GMB,West Africa,1,428000,1
+75,Gambia,2013,,,10.2,GMB,West Africa,0,0,0
+75,Gambia,2014,,,11.1,GMB,West Africa,0,0,0
+75,Gambia,2015,,,11.9,GMB,West Africa,1,63100,1
+75,Gambia,2016,,,12.6,GMB,West Africa,0,0,0
+75,Gambia,2017,52.7,23.6,12.8,GMB,West Africa,0,0,0
+75,Gambia,2018,52.7,23.6,14.2,GMB,West Africa,0,0,0
+75,Gambia,2019,54.3,24.6,15,GMB,West Africa,0,0,0
+75,Gambia,2020,56,25.7,16.8,GMB,West Africa,0,0,0
+75,Gambia,2021,58,27.1,18,GMB,West Africa,0,0,0
+75,Gambia,2022,60.7,27,18.9,GMB,West Africa,0,0,0
+75,Gambia,2023,59,25.5,18.3,GMB,West Africa,0,0,0
+75,Gambia,2024,54.8,21.7,16.8,GMB,West Africa,0,0,0
+81,Ghana,2002,,,14.8,GHA,West Africa,0,0,0
+81,Ghana,2003,,,13.4,GHA,West Africa,0,0,0
+81,Ghana,2004,,,12.6,GHA,West Africa,0,0,0
+81,Ghana,2005,,,12,GHA,West Africa,0,0,0
+81,Ghana,2006,,,11.1,GHA,West Africa,0,0,0
+81,Ghana,2007,,,10.4,GHA,West Africa,0,0,0
+81,Ghana,2008,,,9.2,GHA,West Africa,0,0,0
+81,Ghana,2009,,,8.1,GHA,West Africa,0,0,0
+81,Ghana,2010,,,6.9,GHA,West Africa,0,0,0
+81,Ghana,2011,,,6.9,GHA,West Africa,0,0,0
+81,Ghana,2012,,,7.3,GHA,West Africa,0,0,0
+81,Ghana,2013,,,7.7,GHA,West Africa,0,0,0
+81,Ghana,2014,,,8,GHA,West Africa,0,0,0
+81,Ghana,2015,,,8.7,GHA,West Africa,0,0,0
+81,Ghana,2016,38.3,5.1,9.4,GHA,West Africa,0,0,0
+81,Ghana,2017,40.8,6,9.5,GHA,West Africa,0,0,0
+81,Ghana,2018,43.8,6.9,8.8,GHA,West Africa,0,0,0
+81,Ghana,2019,39.5,6.2,7.5,GHA,West Africa,0,0,0
+81,Ghana,2020,38.2,6,6.6,GHA,West Africa,0,0,0
+81,Ghana,2021,36.6,5.6,5.7,GHA,West Africa,0,0,0
+81,Ghana,2022,38.8,7,5.6,GHA,West Africa,0,0,0
+81,Ghana,2023,42.4,8.2,5.9,GHA,West Africa,0,0,0
+81,Ghana,2024,44.5,9.4,6.3,GHA,West Africa,0,0,0
+90,Guinea,2002,,,18,GIN,West Africa,0,0,0
+90,Guinea,2003,,,17.8,GIN,West Africa,0,0,0
+90,Guinea,2004,,,16.9,GIN,West Africa,0,0,0
+90,Guinea,2005,,,16.4,GIN,West Africa,0,0,0
+90,Guinea,2006,,,16.4,GIN,West Africa,0,0,0
+90,Guinea,2007,,,16.8,GIN,West Africa,0,0,0
+90,Guinea,2008,,,17.2,GIN,West Africa,0,0,0
+90,Guinea,2009,,,17.7,GIN,West Africa,0,0,0
+90,Guinea,2010,,,18.4,GIN,West Africa,0,0,0
+90,Guinea,2011,,,18.1,GIN,West Africa,0,0,0
+90,Guinea,2012,,,17.2,GIN,West Africa,0,0,0
+90,Guinea,2013,,,15.5,GIN,West Africa,0,0,0
+90,Guinea,2014,,,14.2,GIN,West Africa,0,0,0
+90,Guinea,2015,,,13.6,GIN,West Africa,0,0,0
+90,Guinea,2016,,,13.6,GIN,West Africa,0,0,0
+90,Guinea,2017,,,14,GIN,West Africa,0,0,0
+90,Guinea,2018,,,14,GIN,West Africa,0,0,0
+90,Guinea,2019,,,13.4,GIN,West Africa,0,0,0
+90,Guinea,2020,,,12.5,GIN,West Africa,0,0,0
+90,Guinea,2021,,,11.1,GIN,West Africa,0,0,0
+90,Guinea,2022,,,10.4,GIN,West Africa,0,0,0
+90,Guinea,2023,,,10.4,GIN,West Africa,0,0,0
+90,Guinea,2024,,,11.4,GIN,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2002,,,18.9,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2003,,,18.9,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2004,,,18.3,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2005,,,17.9,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2006,,,17.6,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2007,,,17.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2008,,,17.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2009,,,17.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2010,,,17.6,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2011,,,16.9,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2012,,,16,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2013,,,15.1,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2014,,,15.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2015,,,14.6,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2016,34.1,6.2,13.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2017,35.7,7.5,11.5,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2018,37,8.4,10.6,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2019,38.2,9.1,9.8,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2020,39.5,9,9.4,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2021,40.4,9.1,9.2,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2022,41,9.4,9.7,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2023,39.4,8.9,10.4,CIV,West Africa,0,0,0
+107,CÃ´te d'Ivoire,2024,38.4,8.4,11.1,CIV,West Africa,0,0,0
+114,Kenya,2002,,,31.8,KEN,East Africa,0,0,0
+114,Kenya,2003,,,33.3,KEN,East Africa,0,0,0
+114,Kenya,2004,,,34.5,KEN,East Africa,1,2300000,1
+114,Kenya,2005,,,31.6,KEN,East Africa,1,3500000,1
+114,Kenya,2006,,,28,KEN,East Africa,0,0,0
+114,Kenya,2007,,,25.8,KEN,East Africa,0,0,0
+114,Kenya,2008,,,26.8,KEN,East Africa,1,3800000,1
+114,Kenya,2009,,,26.7,KEN,East Africa,0,0,0
+114,Kenya,2010,,,24.3,KEN,East Africa,0,0,0
+114,Kenya,2011,,,21.7,KEN,East Africa,2,8050000,1
+114,Kenya,2012,,,19.9,KEN,East Africa,0,0,0
+114,Kenya,2013,,,19.1,KEN,East Africa,0,0,0
+114,Kenya,2014,,,18.9,KEN,East Africa,1,1600000,1
+114,Kenya,2015,,,19,KEN,East Africa,0,0,0
+114,Kenya,2016,50.7,15,20.8,KEN,East Africa,1,3400000,1
+114,Kenya,2017,54.8,17.8,22.2,KEN,East Africa,0,0,0
+114,Kenya,2018,60.9,21.6,23.6,KEN,East Africa,0,0,0
+114,Kenya,2019,64.4,23.4,22.9,KEN,East Africa,1,2600000,1
+114,Kenya,2020,67.7,24.9,23.7,KEN,East Africa,1,4500000,1
+114,Kenya,2021,69.5,26.1,26.3,KEN,East Africa,0,0,0
+114,Kenya,2022,72.3,28,31.6,KEN,East Africa,0,0,0
+114,Kenya,2023,72.8,28,35.3,KEN,East Africa,0,0,0
+114,Kenya,2024,73.9,28.1,36.8,KEN,East Africa,0,0,0
+123,Liberia,2002,,,34.9,LBR,West Africa,0,0,0
+123,Liberia,2003,,,36.2,LBR,West Africa,0,0,0
+123,Liberia,2004,,,35.9,LBR,West Africa,0,0,0
+123,Liberia,2005,,,36,LBR,West Africa,0,0,0
+123,Liberia,2006,,,35.7,LBR,West Africa,0,0,0
+123,Liberia,2007,,,35.4,LBR,West Africa,0,0,0
+123,Liberia,2008,,,35.1,LBR,West Africa,0,0,0
+123,Liberia,2009,,,34.9,LBR,West Africa,0,0,0
+123,Liberia,2010,,,34.8,LBR,West Africa,0,0,0
+123,Liberia,2011,,,35.2,LBR,West Africa,0,0,0
+123,Liberia,2012,,,35.6,LBR,West Africa,0,0,0
+123,Liberia,2013,,,36.5,LBR,West Africa,0,0,0
+123,Liberia,2014,,,36.4,LBR,West Africa,0,0,0
+123,Liberia,2015,,,36.6,LBR,West Africa,0,0,0
+123,Liberia,2016,79.7,38.6,35.7,LBR,West Africa,0,0,0
+123,Liberia,2017,80.7,38.4,35.1,LBR,West Africa,0,0,0
+123,Liberia,2018,81,38.3,34.9,LBR,West Africa,0,0,0
+123,Liberia,2019,,,35.3,LBR,West Africa,0,0,0
+123,Liberia,2020,80.6,37.3,36.6,LBR,West Africa,0,0,0
+123,Liberia,2021,80.6,37.3,37.5,LBR,West Africa,0,0,0
+123,Liberia,2022,81.2,37.5,37.7,LBR,West Africa,0,0,0
+123,Liberia,2023,81,37.3,37,LBR,West Africa,0,0,0
+123,Liberia,2024,80.8,37.1,35.5,LBR,West Africa,0,0,0
+124,Libya,2002,,,3.7,LBY,North Africa,0,0,0
+124,Libya,2003,,,4,LBY,North Africa,0,0,0
+124,Libya,2004,,,4.3,LBY,North Africa,0,0,0
+124,Libya,2005,,,4.6,LBY,North Africa,0,0,0
+124,Libya,2006,,,4.9,LBY,North Africa,0,0,0
+124,Libya,2007,,,5.2,LBY,North Africa,0,0,0
+124,Libya,2008,,,5.5,LBY,North Africa,0,0,0
+124,Libya,2009,,,5.9,LBY,North Africa,0,0,0
+124,Libya,2010,,,6.3,LBY,North Africa,0,0,0
+124,Libya,2011,,,7.1,LBY,North Africa,0,0,0
+124,Libya,2012,,,8.1,LBY,North Africa,0,0,0
+124,Libya,2013,,,9,LBY,North Africa,0,0,0
+124,Libya,2014,,,9.8,LBY,North Africa,0,0,0
+124,Libya,2015,,,10.2,LBY,North Africa,0,0,0
+124,Libya,2016,29.1,11.2,10.7,LBY,North Africa,0,0,0
+124,Libya,2017,30.9,12.4,11,LBY,North Africa,0,0,0
+124,Libya,2018,33.2,14.3,11.4,LBY,North Africa,0,0,0
+124,Libya,2019,35.7,16.7,11.9,LBY,North Africa,0,0,0
+124,Libya,2020,37.4,18.6,13.2,LBY,North Africa,0,0,0
+124,Libya,2021,39.4,20.7,14.5,LBY,North Africa,0,0,0
+124,Libya,2022,39.8,21.2,16,LBY,North Africa,0,0,0
+124,Libya,2023,37.9,19.9,16.6,LBY,North Africa,0,0,0
+124,Libya,2024,35.1,17.2,16.5,LBY,North Africa,0,0,0
+129,Madagascar,2002,,,33.4,MDG,East Africa,1,600000,1
+129,Madagascar,2003,,,34.8,MDG,East Africa,0,0,0
+129,Madagascar,2004,,,36.1,MDG,East Africa,0,0,0
+129,Madagascar,2005,,,34.6,MDG,East Africa,1,14000,1
+129,Madagascar,2006,,,32.9,MDG,East Africa,0,0,0
+129,Madagascar,2007,,,30.6,MDG,East Africa,0,0,0
+129,Madagascar,2008,,,30.2,MDG,East Africa,1,720000,1
+129,Madagascar,2009,,,30,MDG,East Africa,0,0,0
+129,Madagascar,2010,,,29.4,MDG,East Africa,0,0,0
+129,Madagascar,2011,,,28.1,MDG,East Africa,0,0,0
+129,Madagascar,2012,,,27.4,MDG,East Africa,0,0,0
+129,Madagascar,2013,,,28.6,MDG,East Africa,0,0,0
+129,Madagascar,2014,,,30.1,MDG,East Africa,1,20000,1
+129,Madagascar,2015,,,32.1,MDG,East Africa,0,0,0
+129,Madagascar,2016,,,33.3,MDG,East Africa,1,1140000,1
+129,Madagascar,2017,,,35,MDG,East Africa,1,1260000,1
+129,Madagascar,2018,,,36,MDG,East Africa,0,0,0
+129,Madagascar,2019,58,9.5,37.5,MDG,East Africa,0,0,0
+129,Madagascar,2020,59.6,9.9,38.9,MDG,East Africa,1,1680000,1
+129,Madagascar,2021,61.1,10.3,40.6,MDG,East Africa,0,0,0
+129,Madagascar,2022,64.9,12.2,39.9,MDG,East Africa,0,0,0
+129,Madagascar,2023,68.6,14.9,39.9,MDG,East Africa,0,0,0
+129,Madagascar,2024,72.6,17.8,39.5,MDG,East Africa,0,0,0
+130,Malawi,2002,,,23.2,MWI,East Africa,1,2829435,1
+130,Malawi,2003,,,23.4,MWI,East Africa,0,0,0
+130,Malawi,2004,,,24.1,MWI,East Africa,0,0,0
+130,Malawi,2005,,,23.2,MWI,East Africa,1,5100000,1
+130,Malawi,2006,,,21.5,MWI,East Africa,0,0,0
+130,Malawi,2007,,,19.3,MWI,East Africa,1,520000,1
+130,Malawi,2008,,,17.5,MWI,East Africa,0,0,0
+130,Malawi,2009,,,15.9,MWI,East Africa,0,0,0
+130,Malawi,2010,,,14.7,MWI,East Africa,0,0,0
+130,Malawi,2011,,,14.1,MWI,East Africa,0,0,0
+130,Malawi,2012,,,13.9,MWI,East Africa,1,1900000,1
+130,Malawi,2013,,,14.2,MWI,East Africa,0,0,0
+130,Malawi,2014,,,14.9,MWI,East Africa,0,0,0
+130,Malawi,2015,,,15.5,MWI,East Africa,1,6700000,1
+130,Malawi,2016,78.1,47.7,16.3,MWI,East Africa,0,0,0
+130,Malawi,2017,79.2,48.5,16.7,MWI,East Africa,0,0,0
+130,Malawi,2018,80.3,49.7,17.6,MWI,East Africa,0,0,0
+130,Malawi,2019,78.8,48.3,18.3,MWI,East Africa,0,0,0
+130,Malawi,2020,79.9,49.5,19.3,MWI,East Africa,0,0,0
+130,Malawi,2021,81.3,51,19.9,MWI,East Africa,0,0,0
+130,Malawi,2022,82.4,52.2,20.4,MWI,East Africa,1,2678193,1
+130,Malawi,2023,81.7,53.5,20.7,MWI,East Africa,0,0,0
+130,Malawi,2024,81.7,55.6,21.4,MWI,East Africa,0,0,0
+133,Mali,2002,,,14.2,MLI,West Africa,0,0,0
+133,Mali,2003,,,13.3,MLI,West Africa,0,0,0
+133,Mali,2004,,,13.2,MLI,West Africa,0,0,0
+133,Mali,2005,,,12.4,MLI,West Africa,1,1000000,1
+133,Mali,2006,,,11.2,MLI,West Africa,1,25000,1
+133,Mali,2007,,,9.8,MLI,West Africa,0,0,0
+133,Mali,2008,,,8.5,MLI,West Africa,0,0,0
+133,Mali,2009,,,7.4,MLI,West Africa,0,0,0
+133,Mali,2010,,,6.7,MLI,West Africa,1,600000,1
+133,Mali,2011,,,6.2,MLI,West Africa,1,3500000,1
+133,Mali,2012,,,5.8,MLI,West Africa,0,0,0
+133,Mali,2013,,,5.4,MLI,West Africa,0,0,0
+133,Mali,2014,,,5.2,MLI,West Africa,0,0,0
+133,Mali,2015,,,5,MLI,West Africa,0,0,0
+133,Mali,2016,,,4.9,MLI,West Africa,0,0,0
+133,Mali,2017,,,4.5,MLI,West Africa,0,0,0
+133,Mali,2018,25.9,3.2,4.6,MLI,West Africa,0,0,0
+133,Mali,2019,25.2,3.1,4.6,MLI,West Africa,0,0,0
+133,Mali,2020,23.9,3,4.8,MLI,West Africa,1,6800000,1
+133,Mali,2021,21.9,2.8,4.7,MLI,West Africa,0,0,0
+133,Mali,2022,20.6,2.7,7.3,MLI,West Africa,1,1735753,1
+133,Mali,2023,20,2.7,9.9,MLI,West Africa,0,0,0
+133,Mali,2024,20.6,2.6,12.3,MLI,West Africa,0,0,0
+136,Mauritania,2002,,,9.8,MRT,West Africa,0,0,0
+136,Mauritania,2003,,,9.2,MRT,West Africa,0,0,0
+136,Mauritania,2004,,,9.5,MRT,West Africa,0,0,0
+136,Mauritania,2005,,,9.5,MRT,West Africa,0,0,0
+136,Mauritania,2006,,,10.3,MRT,West Africa,0,0,0
+136,Mauritania,2007,,,9.3,MRT,West Africa,0,0,0
+136,Mauritania,2008,,,8.4,MRT,West Africa,0,0,0
+136,Mauritania,2009,,,7.3,MRT,West Africa,0,0,0
+136,Mauritania,2010,,,7.1,MRT,West Africa,1,838000,1
+136,Mauritania,2011,,,7,MRT,West Africa,1,723000,1
+136,Mauritania,2012,,,6.5,MRT,West Africa,0,0,0
+136,Mauritania,2013,,,6.2,MRT,West Africa,0,0,0
+136,Mauritania,2014,,,6.1,MRT,West Africa,0,0,0
+136,Mauritania,2015,,,6.3,MRT,West Africa,0,0,0
+136,Mauritania,2016,26.3,4.6,6.5,MRT,West Africa,0,0,0
+136,Mauritania,2017,29.2,5,6.7,MRT,West Africa,1,3893774,1
+136,Mauritania,2018,32.3,5.5,6.6,MRT,West Africa,1,350600,1
+136,Mauritania,2019,35.9,5.9,6.5,MRT,West Africa,0,0,0
+136,Mauritania,2020,41.2,6.6,6.6,MRT,West Africa,1,1400000,1
+136,Mauritania,2021,45.3,7.2,7,MRT,West Africa,0,0,0
+136,Mauritania,2022,53.7,9.5,7.8,MRT,West Africa,0,0,0
+136,Mauritania,2023,61.2,11.6,8.6,MRT,West Africa,0,0,0
+136,Mauritania,2024,66.3,13.1,8.7,MRT,West Africa,0,0,0
+137,Mauritius,2002,,,5.9,MUS,East Africa,0,0,0
+137,Mauritius,2003,,,5.8,MUS,East Africa,0,0,0
+137,Mauritius,2004,,,5.6,MUS,East Africa,0,0,0
+137,Mauritius,2005,,,5.6,MUS,East Africa,0,0,0
+137,Mauritius,2006,,,5.4,MUS,East Africa,0,0,0
+137,Mauritius,2007,,,5.4,MUS,East Africa,0,0,0
+137,Mauritius,2008,,,5.6,MUS,East Africa,0,0,0
+137,Mauritius,2009,,,5.4,MUS,East Africa,0,0,0
+137,Mauritius,2010,,,5.5,MUS,East Africa,0,0,0
+137,Mauritius,2011,,,5.5,MUS,East Africa,0,0,0
+137,Mauritius,2012,,,6.1,MUS,East Africa,0,0,0
+137,Mauritius,2013,,,6.5,MUS,East Africa,0,0,0
+137,Mauritius,2014,,,6.7,MUS,East Africa,0,0,0
+137,Mauritius,2015,,,6.8,MUS,East Africa,0,0,0
+137,Mauritius,2016,13,5.2,7.1,MUS,East Africa,0,0,0
+137,Mauritius,2017,16.6,5.9,7.2,MUS,East Africa,0,0,0
+137,Mauritius,2018,18.5,6.2,7.3,MUS,East Africa,0,0,0
+137,Mauritius,2019,20.7,6.8,7.1,MUS,East Africa,0,0,0
+137,Mauritius,2020,24.2,8.3,7.6,MUS,East Africa,0,0,0
+137,Mauritius,2021,28.2,9.1,7.5,MUS,East Africa,0,0,0
+137,Mauritius,2022,32,10.5,7.7,MUS,East Africa,0,0,0
+137,Mauritius,2023,31.2,10.2,7.9,MUS,East Africa,0,0,0
+137,Mauritius,2024,31.1,12.2,8.7,MUS,East Africa,0,0,0
+143,Morocco,2002,,,5.8,MAR,North Africa,0,0,0
+143,Morocco,2003,,,5.4,MAR,North Africa,0,0,0
+143,Morocco,2004,,,5.1,MAR,North Africa,0,0,0
+143,Morocco,2005,,,4.9,MAR,North Africa,0,0,0
+143,Morocco,2006,,,4.8,MAR,North Africa,0,0,0
+143,Morocco,2007,,,4.8,MAR,North Africa,0,0,0
+143,Morocco,2008,,,4.8,MAR,North Africa,0,0,0
+143,Morocco,2009,,,4.8,MAR,North Africa,0,0,0
+143,Morocco,2010,,,4.8,MAR,North Africa,0,0,0
+143,Morocco,2011,,,4.7,MAR,North Africa,0,0,0
+143,Morocco,2012,,,4.5,MAR,North Africa,0,0,0
+143,Morocco,2013,,,4.3,MAR,North Africa,0,0,0
+143,Morocco,2014,,,4.1,MAR,North Africa,0,0,0
+143,Morocco,2015,,,3.9,MAR,North Africa,0,0,0
+143,Morocco,2016,,,3.7,MAR,North Africa,0,0,0
+143,Morocco,2017,,,3.7,MAR,North Africa,0,0,0
+143,Morocco,2018,,,3.5,MAR,North Africa,0,0,0
+143,Morocco,2019,,,3.6,MAR,North Africa,0,0,0
+143,Morocco,2020,,,4.1,MAR,North Africa,0,0,0
+143,Morocco,2021,,,5.3,MAR,North Africa,0,0,0
+143,Morocco,2022,,,6.5,MAR,North Africa,0,0,0
+143,Morocco,2023,,,6.9,MAR,North Africa,0,0,0
+143,Morocco,2024,,,7,MAR,North Africa,0,0,0
+144,Mozambique,2002,,,36.4,MOZ,East Africa,1,600000,1
+144,Mozambique,2003,,,34.9,MOZ,East Africa,1,119500,1
+144,Mozambique,2004,,,32.8,MOZ,East Africa,0,0,0
+144,Mozambique,2005,,,30.9,MOZ,East Africa,1,1400000,1
+144,Mozambique,2006,,,29.2,MOZ,East Africa,0,0,0
+144,Mozambique,2007,,,27.3,MOZ,East Africa,1,520000,1
+144,Mozambique,2008,,,25.4,MOZ,East Africa,1,500000,1
+144,Mozambique,2009,,,23.6,MOZ,East Africa,0,0,0
+144,Mozambique,2010,,,21.7,MOZ,East Africa,1,460000,1
+144,Mozambique,2011,,,20,MOZ,East Africa,0,0,0
+144,Mozambique,2012,,,19.9,MOZ,East Africa,0,0,0
+144,Mozambique,2013,,,21.6,MOZ,East Africa,0,0,0
+144,Mozambique,2014,,,26.4,MOZ,East Africa,0,0,0
+144,Mozambique,2015,,,32.6,MOZ,East Africa,0,0,0
+144,Mozambique,2016,,,39.9,MOZ,East Africa,1,2300000,1
+144,Mozambique,2017,,,41.6,MOZ,East Africa,0,0,0
+144,Mozambique,2018,,,38.3,MOZ,East Africa,0,0,0
+144,Mozambique,2019,,,32.5,MOZ,East Africa,0,0,0
+144,Mozambique,2020,,,28.3,MOZ,East Africa,1,2700000,1
+144,Mozambique,2021,,,25.8,MOZ,East Africa,1,1562771,1
+144,Mozambique,2022,,,22.8,MOZ,East Africa,0,0,0
+144,Mozambique,2023,,,21.8,MOZ,East Africa,1,3300000,1
+144,Mozambique,2024,,,21.8,MOZ,East Africa,0,0,0
+147,Namibia,2002,,,15.7,NAM,Southern Africa,1,345000,1
+147,Namibia,2003,,,16.5,NAM,Southern Africa,0,0,0
+147,Namibia,2004,,,17.7,NAM,Southern Africa,0,0,0
+147,Namibia,2005,,,18.4,NAM,Southern Africa,0,0,0
+147,Namibia,2006,,,19.9,NAM,Southern Africa,0,0,0
+147,Namibia,2007,,,22,NAM,Southern Africa,0,0,0
+147,Namibia,2008,,,24.1,NAM,Southern Africa,0,0,0
+147,Namibia,2009,,,26.1,NAM,Southern Africa,0,0,0
+147,Namibia,2010,,,28.2,NAM,Southern Africa,0,0,0
+147,Namibia,2011,,,29.1,NAM,Southern Africa,0,0,0
+147,Namibia,2012,,,27.6,NAM,Southern Africa,0,0,0
+147,Namibia,2013,,,25.1,NAM,Southern Africa,1,780000,1
+147,Namibia,2014,,,23.3,NAM,Southern Africa,0,0,0
+147,Namibia,2015,,,22.5,NAM,Southern Africa,1,580000,1
+147,Namibia,2016,53.2,28.9,21.7,NAM,Southern Africa,0,0,0
+147,Namibia,2017,54.3,29.6,20.6,NAM,Southern Africa,0,0,0
+147,Namibia,2018,55.3,30.5,20,NAM,Southern Africa,1,556000,1
+147,Namibia,2019,56.5,31.3,19.2,NAM,Southern Africa,0,0,0
+147,Namibia,2020,57.6,32.1,18.9,NAM,Southern Africa,0,0,0
+147,Namibia,2021,57.9,32.6,18.5,NAM,Southern Africa,0,0,0
+147,Namibia,2022,57.7,33,18.7,NAM,Southern Africa,0,0,0
+147,Namibia,2023,56.8,31.8,18.4,NAM,Southern Africa,0,0,0
+147,Namibia,2024,55.9,30,18.1,NAM,Southern Africa,0,0,0
+158,Niger,2002,,,23.1,NER,West Africa,0,0,0
+158,Niger,2003,,,22.2,NER,West Africa,0,0,0
+158,Niger,2004,,,21.1,NER,West Africa,0,0,0
+158,Niger,2005,,,19.1,NER,West Africa,1,3000000,1
+158,Niger,2006,,,18,NER,West Africa,0,0,0
+158,Niger,2007,,,17,NER,West Africa,0,0,0
+158,Niger,2008,,,16.1,NER,West Africa,0,0,0
+158,Niger,2009,,,15.2,NER,West Africa,1,7900000,1
+158,Niger,2010,,,14.3,NER,West Africa,0,0,0
+158,Niger,2011,,,14.6,NER,West Africa,1,3000000,1
+158,Niger,2012,,,14.8,NER,West Africa,0,0,0
+158,Niger,2013,,,15,NER,West Africa,0,0,0
+158,Niger,2014,,,14.5,NER,West Africa,0,0,0
+158,Niger,2015,,,13.7,NER,West Africa,1,2588128,1
+158,Niger,2016,,,12.7,NER,West Africa,0,0,0
+158,Niger,2017,,,12,NER,West Africa,1,1131300,1
+158,Niger,2018,50,10,11.1,NER,West Africa,0,0,0
+158,Niger,2019,50,9.7,10.9,NER,West Africa,0,0,0
+158,Niger,2020,50.1,9.2,10.1,NER,West Africa,1,3700000,1
+158,Niger,2021,50.2,8.3,10.9,NER,West Africa,0,0,0
+158,Niger,2022,50.2,7.7,11.4,NER,West Africa,1,4400000,1
+158,Niger,2023,50.3,7.5,12.7,NER,West Africa,0,0,0
+158,Niger,2024,50.9,7.6,12.9,NER,West Africa,0,0,0
+159,Nigeria,2002,,,8.7,NGA,West Africa,0,0,0
+159,Nigeria,2003,,,8.7,NGA,West Africa,0,0,0
+159,Nigeria,2004,,,8.8,NGA,West Africa,0,0,0
+159,Nigeria,2005,,,8.9,NGA,West Africa,0,0,0
+159,Nigeria,2006,,,9.1,NGA,West Africa,0,0,0
+159,Nigeria,2007,,,9.2,NGA,West Africa,0,0,0
+159,Nigeria,2008,,,9.4,NGA,West Africa,0,0,0
+159,Nigeria,2009,,,9.6,NGA,West Africa,0,0,0
+159,Nigeria,2010,,,9.9,NGA,West Africa,0,0,0
+159,Nigeria,2011,,,10.4,NGA,West Africa,0,0,0
+159,Nigeria,2012,,,11.1,NGA,West Africa,0,0,0
+159,Nigeria,2013,,,11.7,NGA,West Africa,0,0,0
+159,Nigeria,2014,,,11.4,NGA,West Africa,0,0,0
+159,Nigeria,2015,,,11.1,NGA,West Africa,0,0,0
+159,Nigeria,2016,34.7,11,10.7,NGA,West Africa,0,0,0
+159,Nigeria,2017,38.7,12.3,10.8,NGA,West Africa,0,0,0
+159,Nigeria,2018,42.8,13.6,11.5,NGA,West Africa,0,0,0
+159,Nigeria,2019,47.1,15.1,12.1,NGA,West Africa,0,0,0
+159,Nigeria,2020,53.5,17.3,14.3,NGA,West Africa,0,0,0
+159,Nigeria,2021,62.9,19.8,15.8,NGA,West Africa,0,0,0
+159,Nigeria,2022,69.7,21.3,17.6,NGA,West Africa,1,19110398,1
+159,Nigeria,2023,73.9,22.6,18.7,NGA,West Africa,0,0,0
+159,Nigeria,2024,74.8,24.3,19.9,NGA,West Africa,0,0,0
+175,Guinea-Bissau,2002,,,15.6,GNB,West Africa,1,100000,1
+175,Guinea-Bissau,2003,,,16,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2004,,,16.9,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2005,,,18,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2006,,,18.6,GNB,West Africa,1,32000,1
+175,Guinea-Bissau,2007,,,19.3,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2008,,,20,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2009,,,20.7,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2010,,,21.5,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2011,,,22.6,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2012,,,23.7,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2013,,,25.1,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2014,,,29.1,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2015,,,30.1,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2016,,,28,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2017,,,19.8,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2018,61.7,8.3,13.6,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2019,61.8,8.3,12.4,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2020,62,8.5,13.1,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2021,62.3,8.7,16.7,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2022,62.4,8.9,19.5,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2023,62.5,9,22,GNB,West Africa,0,0,0
+175,Guinea-Bissau,2024,,,22.1,GNB,West Africa,0,0,0
+181,Zimbabwe,2002,,,32.8,ZWE,East Africa,0,0,0
+181,Zimbabwe,2003,,,31.8,ZWE,East Africa,0,0,0
+181,Zimbabwe,2004,,,31.4,ZWE,East Africa,0,0,0
+181,Zimbabwe,2005,,,30.6,ZWE,East Africa,0,0,0
+181,Zimbabwe,2006,,,29.5,ZWE,East Africa,0,0,0
+181,Zimbabwe,2007,,,28.7,ZWE,East Africa,1,2100000,1
+181,Zimbabwe,2008,,,27.9,ZWE,East Africa,0,0,0
+181,Zimbabwe,2009,,,27.1,ZWE,East Africa,0,0,0
+181,Zimbabwe,2010,,,28,ZWE,East Africa,1,1667618,1
+181,Zimbabwe,2011,,,29.2,ZWE,East Africa,0,0,0
+181,Zimbabwe,2012,,,29.9,ZWE,East Africa,0,0,0
+181,Zimbabwe,2013,,,29.6,ZWE,East Africa,1,4300000,1
+181,Zimbabwe,2014,,,31.1,ZWE,East Africa,0,0,0
+181,Zimbabwe,2015,,,33.4,ZWE,East Africa,0,0,0
+181,Zimbabwe,2016,64.7,35.5,34.3,ZWE,East Africa,0,0,0
+181,Zimbabwe,2017,66.7,36.7,32.8,ZWE,East Africa,1,6900000,1
+181,Zimbabwe,2018,67,35.9,30.9,ZWE,East Africa,0,0,0
+181,Zimbabwe,2019,66.7,34.2,31,ZWE,East Africa,0,0,0
+181,Zimbabwe,2020,69.8,32.1,30,ZWE,East Africa,0,0,0
+181,Zimbabwe,2021,73,31.3,28.2,ZWE,East Africa,1,167500,1
+181,Zimbabwe,2022,73.6,28.6,24.8,ZWE,East Africa,0,0,0
+181,Zimbabwe,2023,70.7,26.1,21.4,ZWE,East Africa,0,0,0
+181,Zimbabwe,2024,68.8,25.1,19.7,ZWE,East Africa,0,0,0
+184,Rwanda,2002,,,37.6,RWA,East Africa,0,0,0
+184,Rwanda,2003,,,34.3,RWA,East Africa,1,1000000,1
+184,Rwanda,2004,,,33.6,RWA,East Africa,0,0,0
+184,Rwanda,2005,,,36,RWA,East Africa,0,0,0
+184,Rwanda,2006,,,36.7,RWA,East Africa,0,0,0
+184,Rwanda,2007,,,36.6,RWA,East Africa,0,0,0
+184,Rwanda,2008,,,36.5,RWA,East Africa,0,0,0
+184,Rwanda,2009,,,36.5,RWA,East Africa,0,0,0
+184,Rwanda,2010,,,36,RWA,East Africa,0,0,0
+184,Rwanda,2011,,,35.7,RWA,East Africa,0,0,0
+184,Rwanda,2012,,,35.3,RWA,East Africa,0,0,0
+184,Rwanda,2013,,,35.5,RWA,East Africa,0,0,0
+184,Rwanda,2014,,,35.7,RWA,East Africa,0,0,0
+184,Rwanda,2015,,,37.1,RWA,East Africa,0,0,0
+184,Rwanda,2016,,,35.8,RWA,East Africa,0,0,0
+184,Rwanda,2017,,,33.7,RWA,East Africa,0,0,0
+184,Rwanda,2018,,,31.9,RWA,East Africa,0,0,0
+184,Rwanda,2019,,,32.7,RWA,East Africa,0,0,0
+184,Rwanda,2020,,,35.6,RWA,East Africa,0,0,0
+184,Rwanda,2021,,,34.7,RWA,East Africa,0,0,0
+184,Rwanda,2022,,,31,RWA,East Africa,0,0,0
+184,Rwanda,2023,,,26.6,RWA,East Africa,0,0,0
+184,Rwanda,2024,,,24.4,RWA,East Africa,0,0,0
+193,Sao Tome and Principe,2002,,,15.5,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2003,,,13.8,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2004,,,12.3,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2005,,,11.1,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2006,,,10.4,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2007,,,10.6,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2008,,,11.6,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2009,,,13,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2010,,,14.7,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2011,,,16.5,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2012,,,17.6,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2013,,,17.4,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2014,,,17.4,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2015,,,18.1,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2016,,,18.5,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2017,,,18.3,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2018,,,17.9,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2019,,,17.8,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2020,,,16.9,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2021,54.6,14.1,15.9,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2022,54.6,14.1,16,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2023,54.6,14.1,16.7,STP,Central Africa,0,0,0
+193,Sao Tome and Principe,2024,,,17.4,STP,Central Africa,0,0,0
+195,Senegal,2002,,,21.1,SEN,West Africa,1,284000,1
+195,Senegal,2003,,,20,SEN,West Africa,0,0,0
+195,Senegal,2004,,,18.6,SEN,West Africa,0,0,0
+195,Senegal,2005,,,17.1,SEN,West Africa,0,0,0
+195,Senegal,2006,,,15.8,SEN,West Africa,0,0,0
+195,Senegal,2007,,,14.6,SEN,West Africa,0,0,0
+195,Senegal,2008,,,12.2,SEN,West Africa,0,0,0
+195,Senegal,2009,,,10.9,SEN,West Africa,0,0,0
+195,Senegal,2010,,,10.3,SEN,West Africa,0,0,0
+195,Senegal,2011,,,10.9,SEN,West Africa,1,850000,1
+195,Senegal,2012,,,11.1,SEN,West Africa,0,0,0
+195,Senegal,2013,,,11.3,SEN,West Africa,0,0,0
+195,Senegal,2014,,,11.2,SEN,West Africa,1,639702,1
+195,Senegal,2015,,,11.1,SEN,West Africa,0,0,0
+195,Senegal,2016,39,7.5,10,SEN,West Africa,0,0,0
+195,Senegal,2017,37.1,7.2,8.9,SEN,West Africa,0,0,0
+195,Senegal,2018,35.8,7,8,SEN,West Africa,1,320000,1
+195,Senegal,2019,35.1,6.8,7.1,SEN,West Africa,0,0,0
+195,Senegal,2020,33.3,6,6.2,SEN,West Africa,0,0,0
+195,Senegal,2021,31.6,5.1,5.3,SEN,West Africa,0,0,0
+195,Senegal,2022,30.3,4.5,5.2,SEN,West Africa,0,0,0
+195,Senegal,2023,29.4,4,5.1,SEN,West Africa,0,0,0
+195,Senegal,2024,29.1,4,5.1,SEN,West Africa,0,0,0
+196,Seychelles,2002,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2003,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2004,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2005,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2006,,,2.8,SYC,East Africa,0,0,0
+196,Seychelles,2007,,,3.1,SYC,East Africa,0,0,0
+196,Seychelles,2008,,,3.5,SYC,East Africa,0,0,0
+196,Seychelles,2009,,,3.9,SYC,East Africa,0,0,0
+196,Seychelles,2010,,,4.3,SYC,East Africa,0,0,0
+196,Seychelles,2011,,,4.9,SYC,East Africa,0,0,0
+196,Seychelles,2012,,,5.2,SYC,East Africa,0,0,0
+196,Seychelles,2013,,,5.5,SYC,East Africa,0,0,0
+196,Seychelles,2014,,,5.2,SYC,East Africa,0,0,0
+196,Seychelles,2015,,,4.9,SYC,East Africa,0,0,0
+196,Seychelles,2016,14.3,3.2,4.3,SYC,East Africa,0,0,0
+196,Seychelles,2017,14.3,3.2,3.7,SYC,East Africa,0,0,0
+196,Seychelles,2018,14.3,3.2,3.3,SYC,East Africa,0,0,0
+196,Seychelles,2019,,,3,SYC,East Africa,0,0,0
+196,Seychelles,2020,,,2.7,SYC,East Africa,0,0,0
+196,Seychelles,2021,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2022,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2023,,,2.5,SYC,East Africa,0,0,0
+196,Seychelles,2024,,,2.5,SYC,East Africa,0,0,0
+197,Sierra Leone,2002,,,50,SLE,West Africa,0,0,0
+197,Sierra Leone,2003,,,49.2,SLE,West Africa,0,0,0
+197,Sierra Leone,2004,,,47,SLE,West Africa,0,0,0
+197,Sierra Leone,2005,,,44.4,SLE,West Africa,0,0,0
+197,Sierra Leone,2006,,,40.2,SLE,West Africa,0,0,0
+197,Sierra Leone,2007,,,36,SLE,West Africa,0,0,0
+197,Sierra Leone,2008,,,31.9,SLE,West Africa,0,0,0
+197,Sierra Leone,2009,,,28.1,SLE,West Africa,0,0,0
+197,Sierra Leone,2010,,,24.8,SLE,West Africa,0,0,0
+197,Sierra Leone,2011,,,22.5,SLE,West Africa,0,0,0
+197,Sierra Leone,2012,,,21.6,SLE,West Africa,0,0,0
+197,Sierra Leone,2013,,,21.9,SLE,West Africa,0,0,0
+197,Sierra Leone,2014,,,23.2,SLE,West Africa,0,0,0
+197,Sierra Leone,2015,,,23.2,SLE,West Africa,0,0,0
+197,Sierra Leone,2016,75.8,26.7,24.1,SLE,West Africa,0,0,0
+197,Sierra Leone,2017,81.5,31.9,24.5,SLE,West Africa,0,0,0
+197,Sierra Leone,2018,83,32.6,26,SLE,West Africa,0,0,0
+197,Sierra Leone,2019,83,32.4,27,SLE,West Africa,0,0,0
+197,Sierra Leone,2020,85.3,32.2,27.8,SLE,West Africa,0,0,0
+197,Sierra Leone,2021,86.7,31.5,27.5,SLE,West Africa,0,0,0
+197,Sierra Leone,2022,89.2,31.9,26.3,SLE,West Africa,0,0,0
+197,Sierra Leone,2023,88.6,32.3,25.2,SLE,West Africa,0,0,0
+197,Sierra Leone,2024,89.8,33.7,24.1,SLE,West Africa,0,0,0
+201,Somalia,2002,,,70,SOM,East Africa,0,0,0
+201,Somalia,2003,,,69.9,SOM,East Africa,0,0,0
+201,Somalia,2004,,,69.8,SOM,East Africa,1,200000,1
+201,Somalia,2005,,,69.7,SOM,East Africa,1,0,1
+201,Somalia,2006,,,69.7,SOM,East Africa,0,0,0
+201,Somalia,2007,,,69.7,SOM,East Africa,0,0,0
+201,Somalia,2008,,,69.7,SOM,East Africa,1,3300000,1
+201,Somalia,2009,,,69.8,SOM,East Africa,0,0,0
+201,Somalia,2010,,,71.8,SOM,East Africa,1,4000000,1
+201,Somalia,2011,,,72.5,SOM,East Africa,0,0,0
+201,Somalia,2012,,,71.5,SOM,East Africa,1,3000000,1
+201,Somalia,2013,,,67.4,SOM,East Africa,0,0,0
+201,Somalia,2014,,,63.3,SOM,East Africa,1,535624,1
+201,Somalia,2015,,,61.4,SOM,East Africa,1,6700000,1
+201,Somalia,2016,,,60.7,SOM,East Africa,0,0,0
+201,Somalia,2017,,,60.2,SOM,East Africa,0,0,0
+201,Somalia,2018,,,59,SOM,East Africa,0,0,0
+201,Somalia,2019,,,56.2,SOM,East Africa,1,1500000,1
+201,Somalia,2020,,,53.9,SOM,East Africa,0,0,0
+201,Somalia,2021,,,52.1,SOM,East Africa,1,7100000,1
+201,Somalia,2022,79.5,43.4,52.1,SOM,East Africa,0,0,0
+201,Somalia,2023,,,52.8,SOM,East Africa,0,0,0
+201,Somalia,2024,,,53.2,SOM,East Africa,0,0,0
+202,South Africa,2002,,,3.6,ZAF,Southern Africa,0,0,0
+202,South Africa,2003,,,3.5,ZAF,Southern Africa,0,0,0
+202,South Africa,2004,,,3.4,ZAF,Southern Africa,1,15000000,1
+202,South Africa,2005,,,3.3,ZAF,Southern Africa,0,0,0
+202,South Africa,2006,,,3.3,ZAF,Southern Africa,0,0,0
+202,South Africa,2007,,,3.4,ZAF,Southern Africa,0,0,0
+202,South Africa,2008,,,3.5,ZAF,Southern Africa,0,0,0
+202,South Africa,2009,,,3.5,ZAF,Southern Africa,0,0,0
+202,South Africa,2010,,,4,ZAF,Southern Africa,0,0,0
+202,South Africa,2011,,,4.5,ZAF,Southern Africa,0,0,0
+202,South Africa,2012,,,5,ZAF,Southern Africa,0,0,0
+202,South Africa,2013,,,5.2,ZAF,Southern Africa,0,0,0
+202,South Africa,2014,,,5.6,ZAF,Southern Africa,0,0,0
+202,South Africa,2015,,,6.4,ZAF,Southern Africa,1,2700000,1
+202,South Africa,2016,,,6.6,ZAF,Southern Africa,0,0,0
+202,South Africa,2017,,,6.4,ZAF,Southern Africa,1,0,1
+202,South Africa,2018,,,6.1,ZAF,Southern Africa,0,0,0
+202,South Africa,2019,17.4,6.9,6.4,ZAF,Southern Africa,1,750000,1
+202,South Africa,2020,18.2,7.5,7.2,ZAF,Southern Africa,0,0,0
+202,South Africa,2021,19,8,8.6,ZAF,Southern Africa,1,12000000,1
+202,South Africa,2022,19.2,8.4,9.4,ZAF,Southern Africa,0,0,0
+202,South Africa,2023,20,8.4,10,ZAF,Southern Africa,0,0,0
+202,South Africa,2024,20.7,8.5,10,ZAF,Southern Africa,0,0,0
+209,Eswatini,2002,,,9.8,SWZ,Southern Africa,0,0,0
+209,Eswatini,2003,,,9.2,SWZ,Southern Africa,0,0,0
+209,Eswatini,2004,,,8.8,SWZ,Southern Africa,0,0,0
+209,Eswatini,2005,,,9.7,SWZ,Southern Africa,0,0,0
+209,Eswatini,2006,,,11.7,SWZ,Southern Africa,0,0,0
+209,Eswatini,2007,,,13.9,SWZ,Southern Africa,1,410000,1
+209,Eswatini,2008,,,16.4,SWZ,Southern Africa,0,0,0
+209,Eswatini,2009,,,19.6,SWZ,Southern Africa,0,0,0
+209,Eswatini,2010,,,23.3,SWZ,Southern Africa,0,0,0
+209,Eswatini,2011,,,24.9,SWZ,Southern Africa,0,0,0
+209,Eswatini,2012,,,24,SWZ,Southern Africa,0,0,0
+209,Eswatini,2013,,,20.4,SWZ,Southern Africa,0,0,0
+209,Eswatini,2014,,,17.5,SWZ,Southern Africa,0,0,0
+209,Eswatini,2015,,,16.2,SWZ,Southern Africa,0,0,0
+209,Eswatini,2016,,,16.2,SWZ,Southern Africa,1,492000,1
+209,Eswatini,2017,,,16.3,SWZ,Southern Africa,0,0,0
+209,Eswatini,2018,,,15,SWZ,Southern Africa,0,0,0
+209,Eswatini,2019,,,13.4,SWZ,Southern Africa,1,232000,1
+209,Eswatini,2020,,,11.7,SWZ,Southern Africa,0,0,0
+209,Eswatini,2021,59.4,14.1,11.4,SWZ,Southern Africa,0,0,0
+209,Eswatini,2022,57.7,15.6,11.6,SWZ,Southern Africa,0,0,0
+209,Eswatini,2023,57.2,18.6,13.1,SWZ,Southern Africa,0,0,0
+209,Eswatini,2024,59,22.2,14.7,SWZ,Southern Africa,0,0,0
+215,United Republic of Tanzania,2002,,,32.8,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2003,,,33.6,TZA,East Africa,1,1900000,1
+215,United Republic of Tanzania,2004,,,32.1,TZA,East Africa,1,254000,1
+215,United Republic of Tanzania,2005,,,31.5,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2006,,,28.5,TZA,East Africa,1,3700000,1
+215,United Republic of Tanzania,2007,,,27,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2008,,,25.9,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2009,,,25.1,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2010,,,24.6,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2011,,,23.7,TZA,East Africa,1,1000000,1
+215,United Republic of Tanzania,2012,,,22.7,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2013,,,21.7,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2014,,,21.2,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2015,,,21.1,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2016,48.8,20.6,21.3,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2017,55,24.8,21.9,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2018,56.6,25.6,22.6,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2019,56.1,24.9,22.9,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2020,56.3,24.4,23,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2021,57.6,25.8,22.8,TZA,East Africa,1,2100000,1
+215,United Republic of Tanzania,2022,58.7,26.3,22.4,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2023,58.2,25.4,21.4,TZA,East Africa,0,0,0
+215,United Republic of Tanzania,2024,58,24.4,20.2,TZA,East Africa,0,0,0
+217,Togo,2002,,,28.8,TGO,West Africa,0,0,0
+217,Togo,2003,,,28.8,TGO,West Africa,0,0,0
+217,Togo,2004,,,27.7,TGO,West Africa,0,0,0
+217,Togo,2005,,,26.2,TGO,West Africa,0,0,0
+217,Togo,2006,,,24.8,TGO,West Africa,0,0,0
+217,Togo,2007,,,23.6,TGO,West Africa,0,0,0
+217,Togo,2008,,,22.2,TGO,West Africa,0,0,0
+217,Togo,2009,,,20.7,TGO,West Africa,0,0,0
+217,Togo,2010,,,19.9,TGO,West Africa,0,0,0
+217,Togo,2011,,,19.6,TGO,West Africa,0,0,0
+217,Togo,2012,,,20.1,TGO,West Africa,0,0,0
+217,Togo,2013,,,19.9,TGO,West Africa,0,0,0
+217,Togo,2014,,,19.6,TGO,West Africa,0,0,0
+217,Togo,2015,,,20,TGO,West Africa,0,0,0
+217,Togo,2016,60.4,16.1,20.1,TGO,West Africa,0,0,0
+217,Togo,2017,62.2,16.3,20.6,TGO,West Africa,0,0,0
+217,Togo,2018,61.7,15.8,20.4,TGO,West Africa,0,0,0
+217,Togo,2019,59.6,15.4,19.7,TGO,West Africa,0,0,0
+217,Togo,2020,56.3,14,18.2,TGO,West Africa,0,0,0
+217,Togo,2021,54.7,13.5,15.9,TGO,West Africa,0,0,0
+217,Togo,2022,56,12.8,13.7,TGO,West Africa,0,0,0
+217,Togo,2023,57,10.9,11.1,TGO,West Africa,0,0,0
+217,Togo,2024,58.5,9.9,9.1,TGO,West Africa,0,0,0
+222,Tunisia,2002,,,4,TUN,North Africa,0,0,0
+222,Tunisia,2003,,,4.1,TUN,North Africa,0,0,0
+222,Tunisia,2004,,,4.2,TUN,North Africa,0,0,0
+222,Tunisia,2005,,,4.1,TUN,North Africa,0,0,0
+222,Tunisia,2006,,,4,TUN,North Africa,0,0,0
+222,Tunisia,2007,,,4,TUN,North Africa,0,0,0
+222,Tunisia,2008,,,3.8,TUN,North Africa,0,0,0
+222,Tunisia,2009,,,3.6,TUN,North Africa,0,0,0
+222,Tunisia,2010,,,3.4,TUN,North Africa,0,0,0
+222,Tunisia,2011,,,3.4,TUN,North Africa,0,0,0
+222,Tunisia,2012,,,3.4,TUN,North Africa,0,0,0
+222,Tunisia,2013,,,3.2,TUN,North Africa,0,0,0
+222,Tunisia,2014,,,3.1,TUN,North Africa,0,0,0
+222,Tunisia,2015,,,2.9,TUN,North Africa,0,0,0
+222,Tunisia,2016,18.2,9.1,2.8,TUN,North Africa,0,0,0
+222,Tunisia,2017,19.4,9.3,2.8,TUN,North Africa,0,0,0
+222,Tunisia,2018,20,9.1,2.6,TUN,North Africa,0,0,0
+222,Tunisia,2019,22.1,9.7,2.5,TUN,North Africa,0,0,0
+222,Tunisia,2020,25,10.7,2.5,TUN,North Africa,0,0,0
+222,Tunisia,2021,28,12.6,2.8,TUN,North Africa,0,0,0
+222,Tunisia,2022,28.5,12.6,3.1,TUN,North Africa,0,0,0
+222,Tunisia,2023,26.7,11.3,3.2,TUN,North Africa,0,0,0
+222,Tunisia,2024,25.4,9.6,3,TUN,North Africa,0,0,0
+226,Uganda,2002,,,21.2,UGA,East Africa,1,655000,1
+226,Uganda,2003,,,19.5,UGA,East Africa,0,0,0
+226,Uganda,2004,,,18.4,UGA,East Africa,0,0,0
+226,Uganda,2005,,,18.1,UGA,East Africa,1,600000,1
+226,Uganda,2006,,,18.8,UGA,East Africa,0,0,0
+226,Uganda,2007,,,19.2,UGA,East Africa,0,0,0
+226,Uganda,2008,,,19.6,UGA,East Africa,1,1100000,1
+226,Uganda,2009,,,19.8,UGA,East Africa,0,0,0
+226,Uganda,2010,,,18.7,UGA,East Africa,0,0,0
+226,Uganda,2011,,,17.6,UGA,East Africa,1,669000,1
+226,Uganda,2012,,,17.7,UGA,East Africa,0,0,0
+226,Uganda,2013,,,19.6,UGA,East Africa,0,0,0
+226,Uganda,2014,,,21.3,UGA,East Africa,0,0,0
+226,Uganda,2015,,,23.8,UGA,East Africa,0,0,0
+226,Uganda,2016,66.3,21.5,30.6,UGA,East Africa,0,0,0
+226,Uganda,2017,71.3,24,35.4,UGA,East Africa,0,0,0
+226,Uganda,2018,76,25.6,35.5,UGA,East Africa,0,0,0
+226,Uganda,2019,75,24.9,35.9,UGA,East Africa,0,0,0
+226,Uganda,2020,73.1,23.4,33.1,UGA,East Africa,0,0,0
+226,Uganda,2021,69.8,22.1,33.1,UGA,East Africa,0,0,0
+226,Uganda,2022,65.9,20.7,25.6,UGA,East Africa,1,518000,1
+226,Uganda,2023,59.5,17.7,24.2,UGA,East Africa,0,0,0
+226,Uganda,2024,54.6,14.9,22,UGA,East Africa,0,0,0
+233,Burkina Faso,2002,,,22.4,BFA,West Africa,0,0,0
+233,Burkina Faso,2003,,,20.4,BFA,West Africa,0,0,0
+233,Burkina Faso,2004,,,18.5,BFA,West Africa,0,0,0
+233,Burkina Faso,2005,,,17.4,BFA,West Africa,0,0,0
+233,Burkina Faso,2006,,,17,BFA,West Africa,0,0,0
+233,Burkina Faso,2007,,,16.5,BFA,West Africa,0,0,0
+233,Burkina Faso,2008,,,15.9,BFA,West Africa,0,0,0
+233,Burkina Faso,2009,,,15.4,BFA,West Africa,0,0,0
+233,Burkina Faso,2010,,,15,BFA,West Africa,0,0,0
+233,Burkina Faso,2011,,,15,BFA,West Africa,1,2850000,1
+233,Burkina Faso,2012,,,14.6,BFA,West Africa,0,0,0
+233,Burkina Faso,2013,,,14.1,BFA,West Africa,0,0,0
+233,Burkina Faso,2014,,,13.5,BFA,West Africa,1,4000000,1
+233,Burkina Faso,2015,,,13.4,BFA,West Africa,0,0,0
+233,Burkina Faso,2016,,,13.6,BFA,West Africa,0,0,0
+233,Burkina Faso,2017,,,14,BFA,West Africa,0,0,0
+233,Burkina Faso,2018,38.9,5.9,14,BFA,West Africa,0,0,0
+233,Burkina Faso,2019,39.1,6,14.5,BFA,West Africa,0,0,0
+233,Burkina Faso,2020,39.5,6.3,14.3,BFA,West Africa,1,2900000,1
+233,Burkina Faso,2021,40.1,6.8,14.9,BFA,West Africa,0,0,0
+233,Burkina Faso,2022,40.5,7.1,14.3,BFA,West Africa,1,3500928,1
+233,Burkina Faso,2023,40.7,7.2,13.9,BFA,West Africa,0,0,0
+233,Burkina Faso,2024,41.4,7.3,13.1,BFA,West Africa,0,0,0
+238,Ethiopia,2002,,,46.1,ETH,East Africa,0,0,0
+238,Ethiopia,2003,,,43.2,ETH,East Africa,1,12600000,1
+238,Ethiopia,2004,,,41.6,ETH,East Africa,0,0,0
+238,Ethiopia,2005,,,39.1,ETH,East Africa,1,2600000,1
+238,Ethiopia,2006,,,36.4,ETH,East Africa,0,0,0
+238,Ethiopia,2007,,,32.7,ETH,East Africa,0,0,0
+238,Ethiopia,2008,,,29.4,ETH,East Africa,1,6400000,1
+238,Ethiopia,2009,,,26.3,ETH,East Africa,1,6200000,1
+238,Ethiopia,2010,,,23.9,ETH,East Africa,0,0,0
+238,Ethiopia,2011,,,22.4,ETH,East Africa,1,4805679,1
+238,Ethiopia,2012,,,21.2,ETH,East Africa,1,1000000,1
+238,Ethiopia,2013,,,19.8,ETH,East Africa,0,0,0
+238,Ethiopia,2014,,,17.7,ETH,East Africa,0,0,0
+238,Ethiopia,2015,,,15.2,ETH,East Africa,1,10200000,1
+238,Ethiopia,2016,56.2,14.5,13.6,ETH,East Africa,0,0,0
+238,Ethiopia,2017,58.3,15,13,ETH,East Africa,0,0,0
+238,Ethiopia,2018,59.4,14.8,14.1,ETH,East Africa,0,0,0
+238,Ethiopia,2019,57.9,14.1,16.1,ETH,East Africa,0,0,0
+238,Ethiopia,2020,56.3,16.4,18.5,ETH,East Africa,0,0,0
+238,Ethiopia,2021,56.2,19.6,20.3,ETH,East Africa,1,6800000,1
+238,Ethiopia,2022,58.1,21.1,20.6,ETH,East Africa,1,24100000,1
+238,Ethiopia,2023,59,19.7,20.2,ETH,East Africa,0,0,0
+238,Ethiopia,2024,61.4,19,19.7,ETH,East Africa,0,0,0
+250,Democratic Republic of the Congo,2002,,,26.8,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2003,,,27.2,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2004,,,27.2,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2005,,,27.3,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2006,,,27.3,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2007,,,27.4,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2008,,,27.6,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2009,,,27.7,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2010,,,28.4,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2011,,,28.7,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2012,,,29.6,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2013,,,30.5,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2014,,,30.8,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2015,,,31.1,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2016,,,31.7,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2017,,,32.3,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2018,,,32.7,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2019,,,32.5,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2020,69.2,38.5,34.1,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2021,72.3,39.2,35.2,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2022,75.9,40.3,36.6,COD,Central Africa,1,25972806,1
+250,Democratic Republic of the Congo,2023,80.2,41.7,37.3,COD,Central Africa,0,0,0
+250,Democratic Republic of the Congo,2024,81.5,42.5,38.5,COD,Central Africa,0,0,0
+251,Zambia,2002,,,50.3,ZMB,East Africa,0,0,0
+251,Zambia,2003,,,50.1,ZMB,East Africa,0,0,0
+251,Zambia,2004,,,50.1,ZMB,East Africa,0,0,0
+251,Zambia,2005,,,49.5,ZMB,East Africa,1,1200000,1
+251,Zambia,2006,,,49.4,ZMB,East Africa,0,0,0
+251,Zambia,2007,,,48.1,ZMB,East Africa,0,0,0
+251,Zambia,2008,,,46.8,ZMB,East Africa,0,0,0
+251,Zambia,2009,,,45.6,ZMB,East Africa,0,0,0
+251,Zambia,2010,,,44.9,ZMB,East Africa,0,0,0
+251,Zambia,2011,,,43.9,ZMB,East Africa,0,0,0
+251,Zambia,2012,,,42.8,ZMB,East Africa,0,0,0
+251,Zambia,2013,,,41.1,ZMB,East Africa,0,0,0
+251,Zambia,2014,,,39.1,ZMB,East Africa,0,0,0
+251,Zambia,2015,,,37.3,ZMB,East Africa,0,0,0
+251,Zambia,2016,51.2,22.4,35.1,ZMB,East Africa,0,0,0
+251,Zambia,2017,52.4,23.8,33.4,ZMB,East Africa,0,0,0
+251,Zambia,2018,52,24.1,31.8,ZMB,East Africa,0,0,0
+251,Zambia,2019,54.2,25,31.5,ZMB,East Africa,1,1430000,1
+251,Zambia,2020,52.5,22.5,32.1,ZMB,East Africa,0,0,0
+251,Zambia,2021,51.8,22.4,33.9,ZMB,East Africa,1,1580000,1
+251,Zambia,2022,47.9,19.7,35.7,ZMB,East Africa,0,0,0
+251,Zambia,2023,46.1,19,36.2,ZMB,East Africa,0,0,0
+251,Zambia,2024,45.3,17.2,37.2,ZMB,East Africa,0,0,0
+276,Sudan,2014,,,8.7,SDN,North Africa,0,0,0
+276,Sudan,2015,,,8.4,SDN,North Africa,1,800000,1
+276,Sudan,2016,,,8.9,SDN,North Africa,0,0,0
+276,Sudan,2017,,,9.8,SDN,North Africa,0,0,0
+276,Sudan,2018,,,10.3,SDN,North Africa,0,0,0
+276,Sudan,2019,,,10.8,SDN,North Africa,0,0,0
+276,Sudan,2020,,,10.8,SDN,North Africa,0,0,0
+276,Sudan,2021,,,11.1,SDN,North Africa,0,0,0
+276,Sudan,2022,,,11,SDN,North Africa,1,11839300,1
+277,South Sudan,2021,86.4,62.3,21.8,SSD,East Africa,1,7723670,1
+277,South Sudan,2022,87.3,63.2,21.4,SSD,East Africa,0,0,0
+277,South Sudan,2023,87.3,63.2,21,SSD,East Africa,0,0,0
+277,South Sudan,2024,88.1,63.1,22.3,SSD,East Africa,0,0,0

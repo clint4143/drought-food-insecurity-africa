@@ -1,0 +1,6 @@
+subregion,drought_pou_change,baseline_pou_change,drought_penalty_pp,n_drought_events
+North Africa,1.4,0.263,1.137,1
+West Africa,-0.014,-0.59,0.576,35
+Southern Africa,0.279,0.171,0.107,14
+Central Africa,-0.5,-0.519,0.019,12
+East Africa,-1.411,-0.609,-0.802,73

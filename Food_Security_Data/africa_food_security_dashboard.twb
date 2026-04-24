@@ -1,0 +1,1842 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20261.26.0410.0924                               -->
+<workbook original-version='18.1' source-build='2026.1.1 (20261.26.0410.0924)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <ParameterAction />
+    <ParameterActionClearSelection />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <ZoneBackgroundTransparency />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource hasconnection='false' inline='true' name='Parameters' version='18.1'>
+      <aliases enabled='yes' />
+      <column caption='ColorStart' datatype='real' name='[ColorStart]' param-domain-type='any' role='measure' type='quantitative' value='1.137'>
+        <calculation class='tableau' formula='1.137' />
+      </column>
+    </datasource>
+    <datasource caption='tableau_ready' inline='true' name='federated.0lg1cne0nmvv041eeqpt914cke0t' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='tableau_ready' name='textscan.09y4grf0yt8rht18kubsu1iy3qol'>
+            <connection class='textscan' directory='C:/Users/user/Desktop/Projects/P1_Lag_analysis/Food_Security_Data' filename='tableau_ready.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.09y4grf0yt8rht18kubsu1iy3qol' name='tableau_ready.csv' table='[tableau_ready#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Area' ordinal='0' />
+            <column datatype='string' name='iso3' ordinal='1' />
+            <column datatype='string' name='subregion' ordinal='2' />
+            <column datatype='date' date-parse-format='yyyy' name='year' ordinal='3' />
+            <column datatype='real' name='pou_pct' ordinal='4' />
+            <column datatype='integer' name='drought_occurred' ordinal='5' />
+            <column datatype='integer' name='total_affected' ordinal='6' />
+            <column datatype='real' name='pou_lag_1' ordinal='7' />
+            <column datatype='real' name='pou_lag_2' ordinal='8' />
+            <column datatype='real' name='pou_lag_3' ordinal='9' />
+            <column datatype='real' name='pou_change_1yr' ordinal='10' />
+            <column datatype='real' name='pou_change_2yr' ordinal='11' />
+            <column datatype='real' name='pou_change_3yr' ordinal='12' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Area</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Area]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>Area</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>iso3</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[iso3]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>iso3</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>subregion</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[subregion]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>subregion</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>7</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>date</local-type>
+            <aggregation>Year</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_pct</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_pct]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_pct</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>drought_occurred</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[drought_occurred]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>drought_occurred</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>total_affected</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[total_affected]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>total_affected</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_lag_1</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_lag_1]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_lag_1</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_lag_2</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_lag_2]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_lag_2</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_lag_3</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_lag_3]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_lag_3</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_change_1yr</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_change_1yr]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_change_1yr</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_change_2yr</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_change_2yr]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_change_2yr</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>pou_change_3yr</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[pou_change_3yr]</local-name>
+            <parent-name>[tableau_ready.csv]</parent-name>
+            <remote-alias>pou_change_3yr</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='tableau_ready.csv' datatype='table' name='[__tableau_internal_object_id__].[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]' role='measure' type='quantitative' />
+      <column caption='Drought Occurred' datatype='integer' name='[drought_occurred]' role='measure' type='quantitative' />
+      <column caption='Iso3' datatype='string' name='[iso3]' role='dimension' type='nominal' />
+      <column caption='Pou Change 1Yr' datatype='real' name='[pou_change_1yr]' role='dimension' type='quantitative' />
+      <column caption='Pou Change 2Yr' datatype='real' name='[pou_change_2yr]' role='dimension' type='quantitative' />
+      <column caption='Pou Change 3Yr' datatype='real' name='[pou_change_3yr]' role='dimension' type='quantitative' />
+      <column caption='Pou Lag 1' datatype='real' name='[pou_lag_1]' role='measure' type='quantitative' />
+      <column caption='Pou Lag 2' datatype='real' name='[pou_lag_2]' role='measure' type='quantitative' />
+      <column caption='Pou Lag 3' datatype='real' name='[pou_lag_3]' role='measure' type='quantitative' />
+      <column caption='Pou Pct' datatype='real' name='[pou_pct]' role='measure' type='quantitative' />
+      <column caption='Subregion' datatype='string' name='[subregion]' role='dimension' type='nominal' />
+      <column caption='Total Affected' datatype='integer' name='[total_affected]' role='measure' type='quantitative' />
+      <column caption='Year' datatype='date' name='[year]' role='dimension' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/user/Documents/My Tableau Repository/Datasources/#TableauTemp_0m9vjib0qpqjwc1a5ej2u0go0q46.hyper' default-settings='yes' schema='Extract' sslmode='' update-time='04/23/2026 11:00:07 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='tableau_ready' increment-value='%null%' refresh-type='create' rows-inserted='1068' timestamp-start='2026-04-23 23:00:07.360' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Area</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Area]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Area</remote-alias>
+              <ordinal>0</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>50</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>iso3</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[iso3]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>iso3</remote-alias>
+              <ordinal>1</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>50</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>subregion</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[subregion]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>subregion</remote-alias>
+              <ordinal>2</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>year</remote-name>
+              <remote-type>133</remote-type>
+              <local-name>[year]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>year</remote-alias>
+              <ordinal>3</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>date</local-type>
+              <aggregation>Year</aggregation>
+              <approx-count>22</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_pct</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_pct]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_pct</remote-alias>
+              <ordinal>4</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>374</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>drought_occurred</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[drought_occurred]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>drought_occurred</remote-alias>
+              <ordinal>5</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>total_affected</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[total_affected]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>total_affected</remote-alias>
+              <ordinal>6</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>120</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_lag_1</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_lag_1]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_lag_1</remote-alias>
+              <ordinal>7</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>371</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_lag_2</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_lag_2]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_lag_2</remote-alias>
+              <ordinal>8</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>362</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_lag_3</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_lag_3]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_lag_3</remote-alias>
+              <ordinal>9</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>358</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_change_1yr</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_change_1yr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_change_1yr</remote-alias>
+              <ordinal>10</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>90</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_change_2yr</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_change_2yr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_change_2yr</remote-alias>
+              <ordinal>11</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>141</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>pou_change_3yr</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[pou_change_3yr]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>pou_change_3yr</remote-alias>
+              <ordinal>12</ordinal>
+              <family>tableau_ready.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>182</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='tableau_ready.csv' id='tableau_ready.csv_0200CDFE9672433CB55FCF805EDFE88E'>
+            <properties context=''>
+              <relation connection='textscan.09y4grf0yt8rht18kubsu1iy3qol' name='tableau_ready.csv' table='[tableau_ready#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Area' ordinal='0' />
+                  <column datatype='string' name='iso3' ordinal='1' />
+                  <column datatype='string' name='subregion' ordinal='2' />
+                  <column datatype='date' date-parse-format='yyyy' name='year' ordinal='3' />
+                  <column datatype='real' name='pou_pct' ordinal='4' />
+                  <column datatype='integer' name='drought_occurred' ordinal='5' />
+                  <column datatype='integer' name='total_affected' ordinal='6' />
+                  <column datatype='real' name='pou_lag_1' ordinal='7' />
+                  <column datatype='real' name='pou_lag_2' ordinal='8' />
+                  <column datatype='real' name='pou_lag_3' ordinal='9' />
+                  <column datatype='real' name='pou_change_1yr' ordinal='10' />
+                  <column datatype='real' name='pou_change_2yr' ordinal='11' />
+                  <column datatype='real' name='pou_change_3yr' ordinal='12' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='Drought Penalty Bar Chart' inline='true' name='federated.0a8i8a51rx1of41diafpu0nkad0l' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='subregion_drought_penalty' name='textscan.06iwesh1jesf9a18bxhem1bzgxeh'>
+            <connection class='textscan' directory='C:/Users/user/Desktop/Projects/P1_Lag_analysis/Food_Security_Data' filename='subregion_drought_penalty.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.06iwesh1jesf9a18bxhem1bzgxeh' name='subregion_drought_penalty.csv' table='[subregion_drought_penalty#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='subregion' ordinal='0' />
+            <column datatype='real' name='drought_pou_change' ordinal='1' />
+            <column datatype='real' name='baseline_pou_change' ordinal='2' />
+            <column datatype='real' name='drought_penalty_pp' ordinal='3' />
+            <column datatype='integer' name='n_drought_events' ordinal='4' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>subregion</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[subregion]</local-name>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias>subregion</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>drought_pou_change</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[drought_pou_change]</local-name>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias>drought_pou_change</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>baseline_pou_change</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[baseline_pou_change]</local-name>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias>baseline_pou_change</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>drought_penalty_pp</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[drought_penalty_pp]</local-name>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias>drought_penalty_pp</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>n_drought_events</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[n_drought_events]</local-name>
+            <parent-name>[subregion_drought_penalty.csv]</parent-name>
+            <remote-alias>n_drought_events</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='subregion_drought_penalty.csv' datatype='table' name='[__tableau_internal_object_id__].[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]' role='measure' type='quantitative' />
+      <column caption='Baseline Pou Change' datatype='real' name='[baseline_pou_change]' role='measure' type='quantitative' />
+      <column caption='Drought Penalty Pp' datatype='real' name='[drought_penalty_pp]' role='measure' type='quantitative' />
+      <column caption='Drought Pou Change' datatype='real' name='[drought_pou_change]' role='measure' type='quantitative' />
+      <column caption='N Drought Events' datatype='integer' name='[n_drought_events]' role='measure' type='quantitative' />
+      <column caption='Subregion' datatype='string' name='[subregion]' role='dimension' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' authentication='auth-none' author-locale='en_US' class='hyper' dbname='C:/Users/user/Documents/My Tableau Repository/Datasources/#TableauTemp_19wfkrn141wcvi18cqzlx1fhv4jo.hyper' default-settings='yes' schema='Extract' sslmode='' update-time='04/23/2026 10:58:51 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <refresh>
+            <refresh-event add-from-file-path='Drought Penalty Bar Chart' increment-value='%null%' refresh-type='create' rows-inserted='5' timestamp-start='2026-04-23 22:58:51.219' />
+          </refresh>
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>subregion</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[subregion]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>subregion</remote-alias>
+              <ordinal>0</ordinal>
+              <family>subregion_drought_penalty.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RUS' />
+              <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>drought_pou_change</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[drought_pou_change]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>drought_pou_change</remote-alias>
+              <ordinal>1</ordinal>
+              <family>subregion_drought_penalty.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>baseline_pou_change</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[baseline_pou_change]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>baseline_pou_change</remote-alias>
+              <ordinal>2</ordinal>
+              <family>subregion_drought_penalty.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>drought_penalty_pp</remote-name>
+              <remote-type>5</remote-type>
+              <local-name>[drought_penalty_pp]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>drought_penalty_pp</remote-alias>
+              <ordinal>3</ordinal>
+              <family>subregion_drought_penalty.csv</family>
+              <local-type>real</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>n_drought_events</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[n_drought_events]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>n_drought_events</remote-alias>
+              <ordinal>4</ordinal>
+              <family>subregion_drought_penalty.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='subregion_drought_penalty.csv' id='subregion_drought_penalty.csv_F395B131CF834741899080347AB4D891'>
+            <properties context=''>
+              <relation connection='textscan.06iwesh1jesf9a18bxhem1bzgxeh' name='subregion_drought_penalty.csv' table='[subregion_drought_penalty#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='subregion' ordinal='0' />
+                  <column datatype='real' name='drought_pou_change' ordinal='1' />
+                  <column datatype='real' name='baseline_pou_change' ordinal='2' />
+                  <column datatype='real' name='drought_penalty_pp' ordinal='3' />
+                  <column datatype='integer' name='n_drought_events' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <actions>
+    <edit-parameter-action caption='ParameterColorStart1' name='[Action1_A9F60A7A758A4F9B9374C4F1F5571709]'>
+      <activation type='on-select' />
+      <source type='sheet' worksheet='Drought Penalty' />
+      <agg-type type='min' />
+      <clear-option type='do-nothing' value='i:1' />
+      <params>
+        <param name='source-field' value='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' />
+        <param name='target-parameter' value='[Parameters].[ColorStart]' />
+      </params>
+    </edit-parameter-action>
+  </actions>
+  <worksheets>
+    <worksheet name='Drought Penalty'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Benton Sans Book'>Drought Penalty on Food Insecurity by Sub-Region (2-Year Lag)</run>
+            <run>Æ&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Drought Penalty Bar Chart' name='federated.0a8i8a51rx1of41diafpu0nkad0l' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0a8i8a51rx1of41diafpu0nkad0l'>
+            <column caption='Drought Penalty Pp' datatype='real' name='[drought_penalty_pp]' role='measure' type='quantitative' />
+            <column caption='N Drought Events' datatype='integer' name='[n_drought_events]' role='measure' type='quantitative' />
+            <column-instance column='[subregion]' derivation='None' name='[none:subregion:nk]' pivot='key' type='nominal' />
+            <column caption='Subregion' datatype='string' name='[subregion]' role='dimension' type='nominal' />
+            <column-instance column='[drought_penalty_pp]' derivation='Sum' name='[sum:drought_penalty_pp:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[n_drought_events]' derivation='Sum' name='[sum:n_drought_events:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]' direction='DESC' using='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='cell'>
+            <format attr='height' field='[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]' value='31' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' center='0.0' field='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' max='1.137' min='-0.80200000000000005' palette='orange_blue_diverging_10_0' type='interpolated' />
+          </style-rule>
+          <style-rule element='refline'>
+            <format attr='fill-above' id='refline0' value='#00000000' />
+            <format attr='fill-below' id='refline0' value='#00000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' />
+              <text column='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:n_drought_events:qk]' />
+            </encodings>
+            <reference-line axis-column='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' enable-instant-analytics='true' formula='constant' id='refline0' label-type='automatic' scope='per-pane' value='0.0' value-column='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' z-order='1' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='size' value='1.8790607452392578' />
+              </style-rule>
+              <style-rule element='pane'>
+                <format attr='minwidth' value='1898' />
+                <format attr='maxwidth' value='1898' />
+                <format attr='minheight' value='100' />
+                <format attr='maxheight' value='100' />
+                <format attr='aspect' value='0' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]</rows>
+        <cols>[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]</cols>
+        <annotations>
+          <annotation class='point' id='0' mark-position='1' pullback='12' text-width='165'>
+            <formatted-text>
+              <run fontalignment='0' fontcolor='#000000' fontname='Benton Sans Book'>n=1, interpret with caution.</run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='mark'>
+                <tuple-reference>
+                  <tuple-descriptor>
+                    <pane-descriptor>
+                      <x-fields>
+                        <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]</field>
+                      </x-fields>
+                      <y-fields>
+                        <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]</field>
+                      </y-fields>
+                    </pane-descriptor>
+                    <columns>
+                      <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]</field>
+                      <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]</field>
+                      <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:n_drought_events:qk]</field>
+                    </columns>
+                  </tuple-descriptor>
+                  <tuple>
+                    <value>&quot;North Africa&quot;</value>
+                    <value>1.137</value>
+                    <value>1</value>
+                  </tuple>
+                </tuple-reference>
+              </visual-coordinate>
+            </point>
+            <body x='30' y='29' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{78B8E9EA-4263-4212-9BD2-E8906541F3F8}' />
+    </worksheet>
+    <worksheet name='Drought Timeline'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Benton Sans Book'>Drought Events and Population Affected by Sub-Region (2000-2023)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_ready' name='federated.0lg1cne0nmvv041eeqpt914cke0t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0lg1cne0nmvv041eeqpt914cke0t'>
+            <column caption='Drought Occurred' datatype='integer' name='[drought_occurred]' role='measure' type='quantitative' />
+            <column-instance column='[subregion]' derivation='None' name='[none:subregion:nk]' pivot='key' type='nominal' />
+            <column caption='Subregion' datatype='string' name='[subregion]' role='dimension' type='nominal' />
+            <column-instance column='[drought_occurred]' derivation='Sum' name='[sum:drought_occurred:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[total_affected]' derivation='Sum' name='[sum:total_affected:qk]' pivot='key' type='quantitative' />
+            <column caption='Total Affected' datatype='integer' name='[total_affected]' role='measure' type='quantitative' />
+            <column-instance column='[year]' derivation='Year-Trunc' name='[tyr:year:qk]' pivot='key' type='quantitative' />
+            <column caption='Year' datatype='date' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:subregion:nk]' member='&quot;Central Africa&quot;' />
+              <groupfilter function='member' level='[none:subregion:nk]' member='&quot;East Africa&quot;' />
+              <groupfilter function='member' level='[none:subregion:nk]' member='&quot;North Africa&quot;' />
+              <groupfilter function='member' level='[none:subregion:nk]' member='&quot;Southern Africa&quot;' />
+              <groupfilter function='member' level='[none:subregion:nk]' member='&quot;West Africa&quot;' />
+            </groupfilter>
+          </filter>
+          <natural-sort column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' direction='DESC' />
+          <filter class='quantitative' column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' included-values='in-range'>
+            <min>#2002-01-01 00:00:00#</min>
+            <max>#2023-12-31 00:00:00#</max>
+          </filter>
+          <slices>
+            <column>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</column>
+            <column>[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' scope='cols' value='Year' />
+          </style-rule>
+          <style-rule element='mark'>
+            <encoding attr='color' field='[federated.0lg1cne0nmvv041eeqpt914cke0t].[sum:total_affected:qk]' palette='orange_10_0' type='interpolated' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[sum:total_affected:qk]' />
+              <size column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[sum:drought_occurred:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+                <format attr='text-orientation' value='0' />
+                <format attr='wrap' value='auto' />
+                <format attr='vertical-align' value='bottom' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='3.6574585437774658' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]</rows>
+        <cols>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</cols>
+      </table>
+      <simple-id uuid='{67462D86-71F4-48A0-9A00-D3D0F0D8F31B}' />
+    </worksheet>
+    <worksheet name='PoU Trend'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Benton Sans Book'>Prevalence of Undernourishment by African Sub-Region (2002-2023)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='tableau_ready' name='federated.0lg1cne0nmvv041eeqpt914cke0t' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0lg1cne0nmvv041eeqpt914cke0t'>
+            <column-instance column='[pou_pct]' derivation='Avg' name='[avg:pou_pct:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[subregion]' derivation='None' name='[none:subregion:nk]' pivot='key' type='nominal' />
+            <column caption='Pou Pct' datatype='real' name='[pou_pct]' role='measure' type='quantitative' />
+            <column caption='Subregion' datatype='string' name='[subregion]' role='dimension' type='nominal' />
+            <column-instance column='[year]' derivation='Year-Trunc' name='[tyr:year:qk]' pivot='key' type='quantitative' />
+            <column caption='Year' datatype='date' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' included-values='in-range'>
+            <max>#2023-12-31 00:00:00#</max>
+          </filter>
+          <slices>
+            <column>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0lg1cne0nmvv041eeqpt914cke0t].[avg:pou_pct:qk]' scope='rows' value='Avg. PoU (%)' />
+            <format attr='title' class='0' field='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' scope='cols' value='Year' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Line' />
+            <encodings>
+              <color column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' />
+              <text column='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0lg1cne0nmvv041eeqpt914cke0t].[avg:pou_pct:qk]</rows>
+        <cols>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</cols>
+      </table>
+      <simple-id uuid='{57342E27-02D9-4571-A4F5-05AE835CAD47}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Africa Food Security Dashboard'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontcolor='#000000' fontname='Benton Sans Book'>Drought and Food Insecurity in Africa: A Sub-Regional Lag Analysis (2000-2023)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <style>
+        <style-rule element='table'>
+          <format attr='background-color' value='#ddebf0' />
+        </style-rule>
+      </style>
+      <size sizing-mode='automatic' />
+      <datasources>
+        <datasource caption='tableau_ready' name='federated.0lg1cne0nmvv041eeqpt914cke0t' />
+      </datasources>
+      <datasource-dependencies datasource='federated.0lg1cne0nmvv041eeqpt914cke0t'>
+        <column-instance column='[year]' derivation='Year-Trunc' name='[tyr:year:qk]' pivot='key' type='quantitative' />
+        <column caption='Year' datatype='date' name='[year]' role='dimension' type='quantitative' />
+      </datasource-dependencies>
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='94806' id='18' param='vert' type-v2='layout-flow' w='99376' x='312' y='501'>
+            <zone h='3254' id='19' type-v2='title' w='99376' x='312' y='501'>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='4' />
+              </zone-style>
+            </zone>
+            <zone h='91552' id='16' param='vert' type-v2='layout-flow' w='99376' x='312' y='3755'>
+              <zone h='91552' id='7' param='horz' type-v2='layout-flow' w='99376' x='312' y='3755'>
+                <zone h='91552' id='5' type-v2='layout-basic' w='93136' x='312' y='3755'>
+                  <zone h='45772' id='3' name='PoU Trend' w='93136' x='312' y='3755'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='45780' id='10' name='Drought Penalty' w='47806' x='312' y='49527'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='45780' id='12' name='Drought Timeline' w='45330' x='48118' y='49527'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+                <zone fixed-size='160' h='91552' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='6240' x='93448' y='3755'>
+                  <zone h='4819' id='8' name='PoU Trend' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='6240' x='93448' y='3755'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                  <zone h='9950' id='9' name='PoU Trend' pane-specification-id='0' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' type-v2='color' w='6240' x='93448' y='8574'>
+                    <zone-style>
+                      <format attr='border-color' value='#000000' />
+                      <format attr='border-style' value='none' />
+                      <format attr='border-width' value='0' />
+                      <format attr='margin' value='4' />
+                    </zone-style>
+                  </zone>
+                </zone>
+              </zone>
+            </zone>
+          </zone>
+          <zone forceUpdate='true' h='4192' id='20' type-v2='text' w='99376' x='312' y='95307'>
+            <formatted-text>
+              <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>Note</run>
+              <run fontcolor='#000000' fontname='Benton Sans Book' italic='true'>: PoU is a 3-year rolling average (FAO). Drought penalty = difference in PoU change between drought and non-drought years. North Africa n=1, interpret with caution. Sources: FAOSTAT 2025, EM-DAT/CRED 2025.</run>
+            </formatted-text>
+            <zone-style>
+              <format attr='border-color' value='#000000' />
+              <format attr='border-style' value='none' />
+              <format attr='border-width' value='0' />
+              <format attr='margin' value='4' />
+            </zone-style>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <layout-options>
+            <title>
+              <formatted-text>
+                <run bold='true' fontcolor='#000000' fontname='Benton Sans Book'>Drought and Food Insecurity in Africa: A Sub-Regional Lag Analysis (2000-2023)</run>
+              </formatted-text>
+            </title>
+          </layout-options>
+          <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='24' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98998' id='23' param='vert' type-v2='layout-flow' w='99376' x='312' y='501'>
+                <zone h='3254' id='19' type-v2='title' w='99376' x='312' y='501'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='4819' id='8' name='PoU Trend' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' show-domain='false' show-null-ctrls='false' type-v2='filter' w='6240' x='93448' y='3755'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='45772' id='3' is-fixed='true' name='PoU Trend' w='93136' x='312' y='3755'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='9950' id='9' name='PoU Trend' pane-specification-id='0' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' type-v2='color' w='6240' x='93448' y='8574'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='45780' id='10' is-fixed='true' name='Drought Penalty' w='47806' x='312' y='49527'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='45780' id='12' is-fixed='true' name='Drought Timeline' w='45330' x='48118' y='49527'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone forceUpdate='true' h='4192' id='20' type-v2='text' w='99376' x='312' y='95307'>
+                  <formatted-text>
+                    <run bold='true' fontcolor='#000000' fontname='Benton Sans Book' italic='true'>Note</run>
+                    <run fontcolor='#000000' fontname='Benton Sans Book' italic='true'>: PoU is a 3-year rolling average (FAO). Drought penalty = difference in PoU change between drought and non-drought years. North Africa n=1, interpret with caution. Sources: FAOSTAT 2025, EM-DAT/CRED 2025.</run>
+                  </formatted-text>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{32480D22-68B6-434A-8A0D-31249EA0AFE6}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.5' source-height='75'>
+    <window class='worksheet' name='PoU Trend'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]' show-domain='false' show-null-ctrls='false' type='filter' />
+            <card pane-specification-id='0' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]</field>
+            <field>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{9A6CE820-13FF-40B1-8031-6AE164D4C801}' />
+    </window>
+    <window class='worksheet' name='Drought Penalty'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='212'>
+            <card pane-specification-id='0' param='[federated.0a8i8a51rx1of41diafpu0nkad0l].[sum:drought_penalty_pp:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0a8i8a51rx1of41diafpu0nkad0l].[none:subregion:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{F8C1CCE9-1A7F-4CE6-8DE0-3490D99278B4}' />
+    </window>
+    <window class='worksheet' name='Drought Timeline'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='210'>
+            <card pane-specification-id='0' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[sum:drought_occurred:qk]' type='size' />
+            <card pane-specification-id='0' param='[federated.0lg1cne0nmvv041eeqpt914cke0t].[sum:total_affected:qk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]</field>
+            <field>[federated.0lg1cne0nmvv041eeqpt914cke0t].[tyr:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{27DB344C-48B8-4A6D-91DC-EFC878BD598E}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Africa Food Security Dashboard'>
+      <viewpoints>
+        <viewpoint name='Drought Penalty'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Drought Timeline'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='PoU Trend'>
+          <zoom type='entire-view' />
+          <highlight>
+            <color-one-way>
+              <field>[federated.0lg1cne0nmvv041eeqpt914cke0t].[none:subregion:nk]</field>
+            </color-one-way>
+          </highlight>
+        </viewpoint>
+      </viewpoints>
+      <active id='6' />
+      <simple-id uuid='{C225DF8D-C4A5-4B6A-A955-6F7301E53700}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Africa Food Security Dashboard' width='192'>
+      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
+      AElFTkSuQmCC
+    </thumbnail>
+    <thumbnail height='192' name='Drought Penalty' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Drought Timeline' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='PoU Trend' width='192'>
+      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
+      RU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>

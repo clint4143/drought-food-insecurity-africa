@@ -1,0 +1,170 @@
+country,iso3,subregion,year,drought_events,total_affected,drought_occurred
+Angola,AGO,Sub-Saharan Africa,2001,1,0,1
+Angola,AGO,Sub-Saharan Africa,2004,1,25000,1
+Angola,AGO,Sub-Saharan Africa,2012,1,1833900,1
+Angola,AGO,Sub-Saharan Africa,2017,1,1420000,1
+Angola,AGO,Sub-Saharan Africa,2020,1,1643316,1
+Botswana,BWA,Sub-Saharan Africa,2015,1,0,1
+Botswana,BWA,Sub-Saharan Africa,2019,1,38000,1
+Botswana,BWA,Sub-Saharan Africa,2023,1,37000,1
+Burkina Faso,BFA,Sub-Saharan Africa,2001,1,0,1
+Burkina Faso,BFA,Sub-Saharan Africa,2011,1,2850000,1
+Burkina Faso,BFA,Sub-Saharan Africa,2014,1,4000000,1
+Burkina Faso,BFA,Sub-Saharan Africa,2020,1,2900000,1
+Burkina Faso,BFA,Sub-Saharan Africa,2022,1,3500928,1
+Burundi,BDI,Sub-Saharan Africa,2003,1,0,1
+Burundi,BDI,Sub-Saharan Africa,2005,1,2150000,1
+Burundi,BDI,Sub-Saharan Africa,2008,1,82500,1
+Burundi,BDI,Sub-Saharan Africa,2009,1,180000,1
+Burundi,BDI,Sub-Saharan Africa,2011,1,0,1
+Cabo Verde,CPV,Sub-Saharan Africa,2002,1,30000,1
+Cabo Verde,CPV,Sub-Saharan Africa,2017,1,70000,1
+Cabo Verde,CPV,Sub-Saharan Africa,2022,1,46093,1
+Cameroon,CMR,Sub-Saharan Africa,2001,1,0,1
+Cameroon,CMR,Sub-Saharan Africa,2012,1,12000,1
+Cameroon,CMR,Sub-Saharan Africa,2022,1,2389127,1
+Central African Republic,CAF,Sub-Saharan Africa,2022,1,2221692,1
+Chad,TCD,Sub-Saharan Africa,2001,1,800000,1
+Chad,TCD,Sub-Saharan Africa,2009,1,2400000,1
+Chad,TCD,Sub-Saharan Africa,2012,1,1600000,1
+Chad,TCD,Sub-Saharan Africa,2017,1,1886800,1
+Chad,TCD,Sub-Saharan Africa,2022,1,2135362,1
+Democratic Republic of the Congo,COD,Sub-Saharan Africa,2022,1,25972806,1
+Djibouti,DJI,Sub-Saharan Africa,2001,1,100000,1
+Djibouti,DJI,Sub-Saharan Africa,2005,1,150000,1
+Djibouti,DJI,Sub-Saharan Africa,2007,1,42750,1
+Djibouti,DJI,Sub-Saharan Africa,2008,1,340000,1
+Djibouti,DJI,Sub-Saharan Africa,2010,1,200258,1
+Djibouti,DJI,Sub-Saharan Africa,2022,1,192168,1
+Eritrea,ERI,Sub-Saharan Africa,2008,1,1700000,1
+Eswatini,SWZ,Sub-Saharan Africa,2001,1,970000,1
+Eswatini,SWZ,Sub-Saharan Africa,2007,1,410000,1
+Eswatini,SWZ,Sub-Saharan Africa,2016,1,492000,1
+Eswatini,SWZ,Sub-Saharan Africa,2019,1,232000,1
+Ethiopia,ETH,Sub-Saharan Africa,2003,1,12600000,1
+Ethiopia,ETH,Sub-Saharan Africa,2005,1,2600000,1
+Ethiopia,ETH,Sub-Saharan Africa,2008,1,6400000,1
+Ethiopia,ETH,Sub-Saharan Africa,2009,1,6200000,1
+Ethiopia,ETH,Sub-Saharan Africa,2011,1,4805679,1
+Ethiopia,ETH,Sub-Saharan Africa,2012,1,1000000,1
+Ethiopia,ETH,Sub-Saharan Africa,2015,1,10200000,1
+Ethiopia,ETH,Sub-Saharan Africa,2021,1,6800000,1
+Ethiopia,ETH,Sub-Saharan Africa,2022,1,24100000,1
+Gambia,GMB,Sub-Saharan Africa,2002,1,0,1
+Gambia,GMB,Sub-Saharan Africa,2012,1,428000,1
+Gambia,GMB,Sub-Saharan Africa,2015,1,63100,1
+Guinea-Bissau,GNB,Sub-Saharan Africa,2002,1,100000,1
+Guinea-Bissau,GNB,Sub-Saharan Africa,2006,1,32000,1
+Kenya,KEN,Sub-Saharan Africa,2004,1,2300000,1
+Kenya,KEN,Sub-Saharan Africa,2005,1,3500000,1
+Kenya,KEN,Sub-Saharan Africa,2008,1,3800000,1
+Kenya,KEN,Sub-Saharan Africa,2011,2,8050000,1
+Kenya,KEN,Sub-Saharan Africa,2014,1,1600000,1
+Kenya,KEN,Sub-Saharan Africa,2016,1,3400000,1
+Kenya,KEN,Sub-Saharan Africa,2019,1,2600000,1
+Kenya,KEN,Sub-Saharan Africa,2020,1,4500000,1
+Lesotho,LSO,Sub-Saharan Africa,2002,1,500000,1
+Lesotho,LSO,Sub-Saharan Africa,2007,1,475000,1
+Lesotho,LSO,Sub-Saharan Africa,2011,1,725515,1
+Lesotho,LSO,Sub-Saharan Africa,2016,1,709000,1
+Lesotho,LSO,Sub-Saharan Africa,2019,1,433000,1
+Lesotho,LSO,Sub-Saharan Africa,2020,1,766000,1
+Lesotho,LSO,Sub-Saharan Africa,2023,1,699049,1
+Madagascar,MDG,Sub-Saharan Africa,2000,1,231290,1
+Madagascar,MDG,Sub-Saharan Africa,2002,1,600000,1
+Madagascar,MDG,Sub-Saharan Africa,2005,1,14000,1
+Madagascar,MDG,Sub-Saharan Africa,2008,1,720000,1
+Madagascar,MDG,Sub-Saharan Africa,2014,1,20000,1
+Madagascar,MDG,Sub-Saharan Africa,2016,1,1140000,1
+Madagascar,MDG,Sub-Saharan Africa,2017,1,1260000,1
+Madagascar,MDG,Sub-Saharan Africa,2020,1,1680000,1
+Malawi,MWI,Sub-Saharan Africa,2002,1,2829435,1
+Malawi,MWI,Sub-Saharan Africa,2005,1,5100000,1
+Malawi,MWI,Sub-Saharan Africa,2007,1,520000,1
+Malawi,MWI,Sub-Saharan Africa,2012,1,1900000,1
+Malawi,MWI,Sub-Saharan Africa,2015,1,6700000,1
+Malawi,MWI,Sub-Saharan Africa,2022,1,2678193,1
+Mali,MLI,Sub-Saharan Africa,2001,1,0,1
+Mali,MLI,Sub-Saharan Africa,2005,1,1000000,1
+Mali,MLI,Sub-Saharan Africa,2006,1,25000,1
+Mali,MLI,Sub-Saharan Africa,2010,1,600000,1
+Mali,MLI,Sub-Saharan Africa,2011,1,3500000,1
+Mali,MLI,Sub-Saharan Africa,2020,1,6800000,1
+Mali,MLI,Sub-Saharan Africa,2022,1,1735753,1
+Mauritania,MRT,Sub-Saharan Africa,2001,1,1000000,1
+Mauritania,MRT,Sub-Saharan Africa,2010,1,838000,1
+Mauritania,MRT,Sub-Saharan Africa,2011,1,723000,1
+Mauritania,MRT,Sub-Saharan Africa,2017,1,3893774,1
+Mauritania,MRT,Sub-Saharan Africa,2018,1,350600,1
+Mauritania,MRT,Sub-Saharan Africa,2020,1,1400000,1
+Mozambique,MOZ,Sub-Saharan Africa,2001,1,100000,1
+Mozambique,MOZ,Sub-Saharan Africa,2002,1,600000,1
+Mozambique,MOZ,Sub-Saharan Africa,2003,1,119500,1
+Mozambique,MOZ,Sub-Saharan Africa,2005,1,1400000,1
+Mozambique,MOZ,Sub-Saharan Africa,2007,1,520000,1
+Mozambique,MOZ,Sub-Saharan Africa,2008,1,500000,1
+Mozambique,MOZ,Sub-Saharan Africa,2010,1,460000,1
+Mozambique,MOZ,Sub-Saharan Africa,2016,1,2300000,1
+Mozambique,MOZ,Sub-Saharan Africa,2020,1,2700000,1
+Mozambique,MOZ,Sub-Saharan Africa,2021,1,1562771,1
+Mozambique,MOZ,Sub-Saharan Africa,2023,1,3300000,1
+Namibia,NAM,Sub-Saharan Africa,2001,1,0,1
+Namibia,NAM,Sub-Saharan Africa,2002,1,345000,1
+Namibia,NAM,Sub-Saharan Africa,2013,1,780000,1
+Namibia,NAM,Sub-Saharan Africa,2015,1,580000,1
+Namibia,NAM,Sub-Saharan Africa,2018,1,556000,1
+Niger,NER,Sub-Saharan Africa,2001,1,3584558,1
+Niger,NER,Sub-Saharan Africa,2005,1,3000000,1
+Niger,NER,Sub-Saharan Africa,2009,1,7900000,1
+Niger,NER,Sub-Saharan Africa,2011,1,3000000,1
+Niger,NER,Sub-Saharan Africa,2015,1,2588128,1
+Niger,NER,Sub-Saharan Africa,2017,1,1131300,1
+Niger,NER,Sub-Saharan Africa,2020,1,3700000,1
+Niger,NER,Sub-Saharan Africa,2022,1,4400000,1
+Nigeria,NGA,Sub-Saharan Africa,2022,1,19110398,1
+Rwanda,RWA,Sub-Saharan Africa,2003,1,1000000,1
+Senegal,SEN,Sub-Saharan Africa,2002,1,284000,1
+Senegal,SEN,Sub-Saharan Africa,2011,1,850000,1
+Senegal,SEN,Sub-Saharan Africa,2014,1,639702,1
+Senegal,SEN,Sub-Saharan Africa,2018,1,320000,1
+Somalia,SOM,Sub-Saharan Africa,2000,1,1200000,1
+Somalia,SOM,Sub-Saharan Africa,2004,1,200000,1
+Somalia,SOM,Sub-Saharan Africa,2005,1,0,1
+Somalia,SOM,Sub-Saharan Africa,2008,1,3300000,1
+Somalia,SOM,Sub-Saharan Africa,2010,1,4000000,1
+Somalia,SOM,Sub-Saharan Africa,2012,1,3000000,1
+Somalia,SOM,Sub-Saharan Africa,2014,1,535624,1
+Somalia,SOM,Sub-Saharan Africa,2015,1,6700000,1
+Somalia,SOM,Sub-Saharan Africa,2019,1,1500000,1
+Somalia,SOM,Sub-Saharan Africa,2021,1,7100000,1
+South Africa,ZAF,Sub-Saharan Africa,2004,1,15000000,1
+South Africa,ZAF,Sub-Saharan Africa,2015,1,2700000,1
+South Africa,ZAF,Sub-Saharan Africa,2017,1,0,1
+South Africa,ZAF,Sub-Saharan Africa,2019,1,750000,1
+South Africa,ZAF,Sub-Saharan Africa,2021,1,12000000,1
+South Sudan,SSD,Sub-Saharan Africa,2009,1,4300000,1
+South Sudan,SSD,Sub-Saharan Africa,2016,1,3600000,1
+South Sudan,SSD,Sub-Saharan Africa,2021,1,7723670,1
+Sudan,SDN,Northern Africa,2000,1,2000000,1
+Sudan,SDN,Northern Africa,2012,1,3200000,1
+Sudan,SDN,Northern Africa,2015,1,800000,1
+Sudan,SDN,Northern Africa,2022,1,11839300,1
+Uganda,UGA,Sub-Saharan Africa,2002,1,655000,1
+Uganda,UGA,Sub-Saharan Africa,2005,1,600000,1
+Uganda,UGA,Sub-Saharan Africa,2008,1,1100000,1
+Uganda,UGA,Sub-Saharan Africa,2011,1,669000,1
+Uganda,UGA,Sub-Saharan Africa,2022,1,518000,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2003,1,1900000,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2004,1,254000,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2006,1,3700000,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2011,1,1000000,1
+United Republic of Tanzania,TZA,Sub-Saharan Africa,2021,1,2100000,1
+Zambia,ZMB,Sub-Saharan Africa,2005,1,1200000,1
+Zambia,ZMB,Sub-Saharan Africa,2019,1,1430000,1
+Zambia,ZMB,Sub-Saharan Africa,2021,1,1580000,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2001,1,6000000,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2007,1,2100000,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2010,1,1667618,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2013,1,4300000,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2017,1,6900000,1
+Zimbabwe,ZWE,Sub-Saharan Africa,2021,1,167500,1
