@@ -1,3 +1,9 @@
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/views/africa_food_security_dashboard/AfricaFoodSecurityDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## GitHub Repository
+https://github.com/clint4143/drought-food-insecurity-africa
+
 # Drought and Food Insecurity in Africa: A Sub-Regional Lag Analysis (2000-2023)
 
 ## Project Overview
@@ -40,3 +46,37 @@ this pattern differ by sub-region?
 - No causal inference is made -- this is a descriptive lag analysis
 
 ## Project Structure
+P1_Lag_analysis/
+├── Food_Security_Data/
+│   ├── Food_Security_Data_E_Africa.csv   # Raw FAOSTAT data
+│   ├── emdat_drought_africa_raw.csv      # Raw EM-DAT data
+│   ├── faostat_clean.csv                 # Cleaned FAOSTAT
+│   ├── emdat_clean.csv                   # Cleaned EM-DAT
+│   ├── merged_clean.csv                  # Merged dataset
+│   ├── lag_analysis.csv                  # Lag analysis output
+│   ├── tableau_ready.csv                 # Final Tableau input
+│   └── subregion_drought_penalty.csv     # Summary for bar chart
+├── 01_clean_faostat.py
+├── 02_clean_emdat.py
+├── 03_merge.py
+├── 04_lag_analysis.py
+├── 05_baseline_comparison.py
+└── README.md
+
+## Tools Used
+- Python 3.13 (pandas, numpy)
+- Tableau Public
+- Data sources: FAOSTAT, EM-DAT/CRED
+
+## Live Dashboard
+[View on Tableau Public](https://public.tableau.com/views/africa_food_security_dashboard/AfricaFoodSecurityDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+## Policy Relevance
+The lag structure of this analysis is directly relevant to early warning system
+calibration used by WFP, FEWS NET, and IGAD. Understanding how long it takes
+for a drought shock to manifest as measurable food insecurity increases -- and
+whether that lag differs by sub-region -- informs pre-positioning of humanitarian
+resources and triggers for emergency response activation.
+
+## Author
+GitHub: https://github.com/clint4143/drought-food-insecurity-africa
